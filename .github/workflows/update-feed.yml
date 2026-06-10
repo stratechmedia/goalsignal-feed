@@ -1,0 +1,32 @@
+name: Update RSS feed
+
+on:
+  repository_dispatch:
+    types: [update-feed]
+
+permissions:
+  contents: write
+
+jobs:
+  write:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Skriv XML fra dispatch-payload sikkert (quoted env-var, ingen shell-injection)
+      - name: Write feed file
+        env:
+          XML: ${{ github.event.client_payload.xml }}
+        run: printf '%s' "$XML" > goalsignal-rss.xml
+
+      - name: Commit if changed
+        run: |
+          if ! git diff --quiet -- goalsignal-rss.xml; then
+            git config user.name "goalsignal-bot"
+            git config user.email "bot@goalsignal.com"
+            git add goalsignal-rss.xml
+            git commit -m "Update RSS feed"
+            git push
+          else
+            echo "No changes"
+          fi
