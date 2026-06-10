@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0">
   <channel>
     <title>GoalSignal - Football News &amp; World Cup 2026</title>
     <link>https://goalsignal.com/uk</link>
-    <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 20:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 20:41:00 GMT</lastBuildDate>
     <item>
       <title>World Cup 2026 Group C Preview: Brazil vs Morocco is the group stage's heavyweight opener</title>
       <link>https://goalsignal.com/uk/news/wc2026-group-c-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-c-preview</guid>
       <description>World Cup 2026 Group C Preview: Brazil vs Morocco is the group stage's heavyweight opener</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 15:18:38 GMT</pubDate>
     </item>
     <item>
@@ -19,6 +19,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-iraq-vs-norway-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-iraq-vs-norway-wc2026</guid>
       <description>GoalSignal’s full preview of Iraq vs Norway — Group I, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -26,6 +27,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-brazil-vs-morocco-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-brazil-vs-morocco-wc2026</guid>
       <description>GoalSignal’s full preview of Brazil vs Morocco — Group C, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -33,6 +35,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-south-korea-vs-czechia-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-south-korea-vs-czechia-wc2026</guid>
       <description>GoalSignal’s full preview of South Korea vs Czechia — Group A, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -40,6 +43,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</guid>
       <description>GoalSignal’s full preview of Canada vs Bosnia and Herzegovina — Group B, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -47,6 +51,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-haiti-vs-scotland-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-haiti-vs-scotland-wc2026</guid>
       <description>GoalSignal’s full preview of Haiti vs Scotland — Group C, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -54,6 +59,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-ghana-vs-panama-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-ghana-vs-panama-wc2026</guid>
       <description>GoalSignal’s full preview of Ghana vs Panama — Group L, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -61,6 +67,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-uzbekistan-vs-colombia-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-uzbekistan-vs-colombia-wc2026</guid>
       <description>GoalSignal’s full preview of Uzbekistan vs Colombia — Group K, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -68,6 +75,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-netherlands-vs-japan-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-netherlands-vs-japan-wc2026</guid>
       <description>GoalSignal’s full preview of Netherlands vs Japan — Group F, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -75,6 +83,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-usa-vs-paraguay-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-usa-vs-paraguay-wc2026</guid>
       <description>GoalSignal’s full preview of USA vs Paraguay — Group D, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -82,6 +91,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-mexico-vs-south-africa-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-mexico-vs-south-africa-wc2026</guid>
       <description>GoalSignal’s full preview of Mexico vs South Africa — Group A, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -89,6 +99,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-germany-vs-curacao-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-germany-vs-curacao-wc2026</guid>
       <description>GoalSignal’s full preview of Germany vs Curacao — Group E, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -96,6 +107,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-spain-vs-cape-verde-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-spain-vs-cape-verde-wc2026</guid>
       <description>GoalSignal’s full preview of Spain vs Cape Verde — Group H, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -103,6 +115,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-ivory-coast-vs-ecuador-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-ivory-coast-vs-ecuador-wc2026</guid>
       <description>GoalSignal’s full preview of Ivory Coast vs Ecuador — Group E, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -110,6 +123,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-england-vs-croatia-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-england-vs-croatia-wc2026</guid>
       <description>GoalSignal’s full preview of England vs Croatia — Group L, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -117,6 +131,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-portugal-vs-dr-congo-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-portugal-vs-dr-congo-wc2026</guid>
       <description>GoalSignal’s full preview of Portugal vs DR Congo — Group K, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -124,6 +139,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-france-vs-senegal-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-france-vs-senegal-wc2026</guid>
       <description>GoalSignal’s full preview of France vs Senegal — Group I, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -131,6 +147,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-argentina-vs-algeria-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-argentina-vs-algeria-wc2026</guid>
       <description>GoalSignal’s full preview of Argentina vs Algeria — Group J, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -138,6 +155,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-qatar-vs-switzerland-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-qatar-vs-switzerland-wc2026</guid>
       <description>GoalSignal’s full preview of Qatar vs Switzerland — Group B, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -145,6 +163,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-saudi-arabia-vs-uruguay-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-saudi-arabia-vs-uruguay-wc2026</guid>
       <description>GoalSignal’s full preview of Saudi Arabia vs Uruguay — Group H, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -152,6 +171,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-iran-vs-new-zealand-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-iran-vs-new-zealand-wc2026</guid>
       <description>GoalSignal’s full preview of Iran vs New Zealand — Group G, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -159,6 +179,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-belgium-vs-egypt-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-belgium-vs-egypt-wc2026</guid>
       <description>GoalSignal’s full preview of Belgium vs Egypt — Group G, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -166,6 +187,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-sweden-vs-tunisia-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-sweden-vs-tunisia-wc2026</guid>
       <description>GoalSignal’s full preview of Sweden vs Tunisia — Group F, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -173,6 +195,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-austria-vs-jordan-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-austria-vs-jordan-wc2026</guid>
       <description>GoalSignal’s full preview of Austria vs Jordan — Group J, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -180,6 +203,7 @@
       <link>https://goalsignal.com/uk/news/gs-preview-australia-vs-turkiye-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-australia-vs-turkiye-wc2026</guid>
       <description>GoalSignal’s full preview of Australia vs Türkiye — Group D, World Cup 2026.</description>
+      <category>preview</category>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -187,6 +211,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-a-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-a-preview</guid>
       <description>World Cup 2026 Group A Preview: Mexico open the tournament with history on home soil</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -194,6 +219,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-d-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-d-preview</guid>
       <description>World Cup 2026 Group D Preview: Co-hosts USA meet Türkiye's returning generation</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -201,6 +227,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-e-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-e-preview</guid>
       <description>World Cup 2026 Group E Preview: Germany's reset meets the smallest nation ever to qualify</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -208,6 +235,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-g-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-g-preview</guid>
       <description>World Cup 2026 Group G Preview: Belgium's post-golden-generation test begins against Egypt</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -215,6 +243,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-b-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-b-preview</guid>
       <description>World Cup 2026 Group B Preview: Bosnia's qualifying miracle meets Swiss order and a host nation</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -222,6 +251,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-f-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-f-preview</guid>
       <description>World Cup 2026 Group F Preview: Netherlands and Japan headline a group with no easy points</description>
+      <category>feature</category>
       <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
     </item>
     <item>
@@ -229,6 +259,7 @@
       <link>https://goalsignal.com/uk/news/wc2026-inplay-betting-guide</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-inplay-betting-guide</guid>
       <description>World Cup 2026 In-Play Betting Guide: Timing Is Everything</description>
+      <category>feature</category>
       <pubDate>Mon, 08 Jun 2026 08:06:15 GMT</pubDate>
     </item>
     <item>
@@ -236,6 +267,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-v-varennagasaki-vs-mitohollyhock-2026-05-30</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-v-varennagasaki-vs-mitohollyhock-2026-05-30</guid>
       <description>xGShadow: V-Varen Nagasaki vs Mito Hollyhock — Away Win @ 2.65</description>
+      <category>feature</category>
       <pubDate>Tue, 02 Jun 2026 18:32:57 GMT</pubDate>
     </item>
     <item>
@@ -243,6 +275,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-leganes-vs-cdmirandes-2026-05-31</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-leganes-vs-cdmirandes-2026-05-31</guid>
       <description>xGShadow: Leganes vs CD Mirandes — Home Win @ 2.05</description>
+      <category>feature</category>
       <pubDate>Tue, 02 Jun 2026 18:32:49 GMT</pubDate>
     </item>
     <item>
@@ -250,6 +283,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-unionbrescia-vs-ascolicalcio1898fc-2026-06-02</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-unionbrescia-vs-ascolicalcio1898fc-2026-06-02</guid>
       <description>xGShadow: Union Brescia vs Ascoli Calcio 1898 FC — Home Win @ 2.7</description>
+      <category>feature</category>
       <pubDate>Tue, 02 Jun 2026 18:32:41 GMT</pubDate>
     </item>
     <item>
@@ -257,6 +291,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-lebanon-vs-yemen-2026-06-04</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-lebanon-vs-yemen-2026-06-04</guid>
       <description>xGShadow: Lebanon vs Yemen — Away Win @ 3.3</description>
+      <category>feature</category>
       <pubDate>Tue, 02 Jun 2026 18:32:34 GMT</pubDate>
     </item>
     <item>
@@ -264,6 +299,7 @@
       <link>https://goalsignal.com/uk/news/catenacciochris-agent-intro</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-agent-intro</guid>
       <description>Everyone wants goals. That's exactly @catenacciochris's edge. The market prices Over 2.5 too high. He prices it correctly.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 10:51:12 GMT</pubDate>
     </item>
     <item>
@@ -271,6 +307,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-agent-intro</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-agent-intro</guid>
       <description>The eye test lies. Expected goals don't. xGShadow bets against overperformers, backs underperformers, and lets the model do the talking.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 10:51:12 GMT</pubDate>
     </item>
     <item>
@@ -278,6 +315,7 @@
       <link>https://goalsignal.com/uk/news/valuehunter-agent-intro</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-agent-intro</guid>
       <description>6pp gap or nothing. @valuehunter chases the biggest bookmaker errors in cross-continental matchups — and doesn't apologise for the odds.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 10:51:12 GMT</pubDate>
     </item>
     <item>
@@ -285,6 +323,7 @@
       <link>https://goalsignal.com/uk/news/catenacciochris-wc-2026-strategy</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-wc-2026-strategy</guid>
       <description>@catenacciochris makes the case for going against the market on goals. Why WC group stage produces fewer goals than bettors expect — and how he turns that into an edge.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 08:42:57 GMT</pubDate>
     </item>
     <item>
@@ -292,6 +331,7 @@
       <link>https://goalsignal.com/uk/news/valuehunter-wc-2026-strategy</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-wc-2026-strategy</guid>
       <description>@valuehunter explains why he ignores most WC matches, where bookmakers make their biggest pricing errors, and why a 48-team tournament is the best value-betting event in years.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 08:42:35 GMT</pubDate>
     </item>
     <item>
@@ -299,6 +339,7 @@
       <link>https://goalsignal.com/uk/news/xgshadow-wc-2026-strategy</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-wc-2026-strategy</guid>
       <description>@xgshadow introduces his World Cup 2026 approach: why he ignores the scoreline, what xG-regression actually means in practice, and which WC markets he'll be targeting.</description>
+      <category>feature</category>
       <pubDate>Sat, 30 May 2026 06:55:54 GMT</pubDate>
     </item>
     <item>
@@ -306,6 +347,7 @@
       <link>https://goalsignal.com/uk/news/spain-world-cup-2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/spain-world-cup-2026</guid>
       <description>Spain enter World Cup 2026 as FIFA No. 1 and Group H favourites to advance, with elite depth, form, and attacking output.</description>
+      <category>feature</category>
       <pubDate>Fri, 29 May 2026 21:11:26 GMT</pubDate>
     </item>
   </channel>
