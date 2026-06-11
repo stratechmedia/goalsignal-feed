@@ -6,7 +6,17 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 13:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 14:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s match (Thursday 11 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</guid>
+      <description>World Cup 2026 — today’s match (Thursday 11 June)</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Thu, 11 Jun 2026 14:02:00 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Brazil vs Morocco — Home Win @ 1.667</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-brazil-vs-morocco-2026-06-13</link>
@@ -108,30 +118,10 @@
       <pubDate>Thu, 11 Jun 2026 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>World Cup 2026 — today’s match (Thursday 11 June)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</guid>
-      <description>World Cup 2026 — today’s match (Thursday 11 June)</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 05:03:10 GMT</pubDate>
-    </item>
-    <item>
       <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
       <link>https://goalsignal.com/uk/news/wc2026-group-i-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-i-preview</guid>
       <description>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 Group L Preview: England vs Croatia is a heavyweight opening collision</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-l-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-l-preview</guid>
-      <description>World Cup 2026 Group L Preview: England vs Croatia is a heavyweight opening collision</description>
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
@@ -162,6 +152,16 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-h-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-h-preview</guid>
       <description>World Cup 2026 Group H Preview: Spain's title machine meets Cape Verde's historic debut</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>World Cup 2026 Group L Preview: England vs Croatia is a heavyweight opening collision</title>
+      <link>https://goalsignal.com/uk/news/wc2026-group-l-preview</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-l-preview</guid>
+      <description>World Cup 2026 Group L Preview: England vs Croatia is a heavyweight opening collision</description>
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
