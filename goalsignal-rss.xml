@@ -6,7 +6,7 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 05:11:00 GMT</lastBuildDate>
     <item>
       <title>World Cup 2026 — today’s match (Thursday 11 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</link>
@@ -15,7 +15,7 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 21:46:35 GMT</pubDate>
+      <pubDate>Thu, 11 Jun 2026 05:03:10 GMT</pubDate>
     </item>
     <item>
       <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
@@ -135,16 +135,6 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brazil vs Morocco — World Cup 2026 Group C Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-brazil-vs-morocco-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-brazil-vs-morocco-wc2026</guid>
-      <description>GoalSignal’s full preview of Brazil vs Morocco — Group C, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/brazil.jpg" type="image/jpeg" length="200000"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/brazil.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/brazil.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
