@@ -6,7 +6,17 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 2 matches (Friday 12 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-12</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-12</guid>
+      <description>World Cup 2026 — today’s 2 matches (Friday 12 June)</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Fri, 12 Jun 2026 05:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Brazil vs Morocco — Away Win @ 5.25</title>
       <link>https://goalsignal.com/uk/news/xgshadow-brazil-vs-morocco-2026-06-13</link>
@@ -158,10 +168,10 @@
       <pubDate>Thu, 11 Jun 2026 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-i-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-i-preview</guid>
-      <description>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</description>
+      <title>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</title>
+      <link>https://goalsignal.com/uk/news/wc2026-group-j-preview</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-j-preview</guid>
+      <description>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</description>
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
@@ -198,10 +208,10 @@
       <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
     </item>
     <item>
-      <title>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-j-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-j-preview</guid>
-      <description>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</description>
+      <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
+      <link>https://goalsignal.com/uk/news/wc2026-group-i-preview</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-i-preview</guid>
+      <description>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</description>
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
@@ -482,16 +492,6 @@
       <link>https://goalsignal.com/uk/news/wc2026-group-f-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-f-preview</guid>
       <description>World Cup 2026 Group F Preview: Netherlands and Japan headline a group with no easy points</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 13:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 Group A Preview: Mexico open the tournament with history on home soil</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-a-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-a-preview</guid>
-      <description>World Cup 2026 Group A Preview: Mexico open the tournament with history on home soil</description>
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="200000"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
