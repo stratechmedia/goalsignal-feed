@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>GoalSignal Test</title>
+    <link>https://goalsignal.com/uk</link>
+    <description>Minimal test feed</description>
+    <item>
+      <title>Test article one</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-12</link>
+      <description>A simple test item to check feed normalization.</description>
+      <pubDate>Fri, 12 Jun 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Test article two</title>
+      <link>https://goalsignal.com/uk/news/how-goalsignal-predicts-football-matches</link>
+      <description>A second simple test item.</description>
+      <pubDate>Thu, 11 Jun 2026 06:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
