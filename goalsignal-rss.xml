@@ -6,7 +6,17 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 3 matches (Saturday 13 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-13</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-13</guid>
+      <description>World Cup 2026 — today’s 3 matches (Saturday 13 June)</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Sat, 13 Jun 2026 05:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 2 matches (Friday 12 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-12</link>
@@ -485,16 +495,6 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg" type="image/jpeg" length="198335"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portugal vs DR Congo — World Cup 2026 Group K Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-portugal-vs-dr-congo-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-portugal-vs-dr-congo-wc2026</guid>
-      <description>GoalSignal’s full preview of Portugal vs DR Congo — Group K, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/portugal.jpg" type="image/jpeg" length="243320"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/portugal.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/portugal.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
   </channel>
