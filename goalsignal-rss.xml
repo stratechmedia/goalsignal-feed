@@ -6,7 +6,27 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Belgium vs Egypt — Home Win @ 1.615</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-belgium-vs-egypt-2026-06-15</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-belgium-vs-egypt-2026-06-15</guid>
+      <description>Catenaccio Chris: Belgium vs Egypt — Home Win @ 1.615</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Sat, 13 Jun 2026 06:11:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catenaccio Chris: Sweden vs Tunisia — Home Win @ 1.85</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-sweden-vs-tunisia-2026-06-15</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-sweden-vs-tunisia-2026-06-15</guid>
+      <description>Catenaccio Chris: Sweden vs Tunisia — Home Win @ 1.85</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Sat, 13 Jun 2026 06:11:37 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 3 matches (Saturday 13 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-13</link>
@@ -475,26 +495,6 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg" type="image/jpeg" length="226667"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argentina vs Algeria — World Cup 2026 Group J Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-argentina-vs-algeria-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-argentina-vs-algeria-wc2026</guid>
-      <description>GoalSignal’s full preview of Argentina vs Algeria — Group J, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg" type="image/jpeg" length="240370"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>France vs Senegal — World Cup 2026 Group I Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-france-vs-senegal-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-france-vs-senegal-wc2026</guid>
-      <description>GoalSignal’s full preview of France vs Senegal — Group I, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg" type="image/jpeg" length="198335"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/france.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
   </channel>
