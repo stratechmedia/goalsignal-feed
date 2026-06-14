@@ -6,7 +6,7 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 21:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 22:11:00 GMT</lastBuildDate>
     <item>
       <title>ValueHunter: Netherlands vs Japan — Home Win @ 2.05</title>
       <link>https://goalsignal.com/uk/news/valuehunter-netherlands-vs-japan-2026-06-14</link>
@@ -338,26 +338,6 @@
       <pubDate>Thu, 11 Jun 2026 06:01:08 GMT</pubDate>
     </item>
     <item>
-      <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-i-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-i-preview</guid>
-      <description>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</title>
-      <link>https://goalsignal.com/uk/news/wc2026-group-j-preview</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-j-preview</guid>
-      <description>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
-    </item>
-    <item>
       <title>World Cup 2026 Group K Preview: Portugal headline a group of firsts and returns</title>
       <link>https://goalsignal.com/uk/news/wc2026-group-k-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-k-preview</guid>
@@ -388,6 +368,26 @@
       <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
     </item>
     <item>
+      <title>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</title>
+      <link>https://goalsignal.com/uk/news/wc2026-group-j-preview</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-j-preview</guid>
+      <description>World Cup 2026 Group J Preview: Defending champions Argentina begin the title defence</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</title>
+      <link>https://goalsignal.com/uk/news/wc2026-group-i-preview</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-i-preview</guid>
+      <description>World Cup 2026 Group I Preview: France meet Senegal in a rematch of football's great upset</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 21:16:35 GMT</pubDate>
+    </item>
+    <item>
       <title>World Cup 2026 Group C Preview: Brazil vs Morocco is the group stage's heavyweight opener</title>
       <link>https://goalsignal.com/uk/news/wc2026-group-c-preview</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-group-c-preview</guid>
@@ -408,6 +408,16 @@
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
+      <title>Canada vs Bosnia and Herzegovina — World Cup 2026 Group B Preview</title>
+      <link>https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</guid>
+      <description>GoalSignal’s full preview of Canada vs Bosnia and Herzegovina — Group B, World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg" type="image/jpeg" length="326593"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
+    </item>
+    <item>
       <title>England vs Croatia — World Cup 2026 Group L Preview</title>
       <link>https://goalsignal.com/uk/news/gs-preview-england-vs-croatia-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-england-vs-croatia-wc2026</guid>
@@ -425,46 +435,6 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/mexico.jpg" type="image/jpeg" length="193220"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/mexico.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/mexico.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>South Korea vs Czechia — World Cup 2026 Group A Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-south-korea-vs-czechia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-south-korea-vs-czechia-wc2026</guid>
-      <description>GoalSignal’s full preview of South Korea vs Czechia — Group A, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/south-korea.jpg" type="image/jpeg" length="189497"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/south-korea.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/south-korea.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canada vs Bosnia and Herzegovina — World Cup 2026 Group B Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-canada-vs-bosnia-and-herzegovina-wc2026</guid>
-      <description>GoalSignal’s full preview of Canada vs Bosnia and Herzegovina — Group B, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg" type="image/jpeg" length="326593"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/canada.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uzbekistan vs Colombia — World Cup 2026 Group K Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-uzbekistan-vs-colombia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-uzbekistan-vs-colombia-wc2026</guid>
-      <description>GoalSignal’s full preview of Uzbekistan vs Colombia — Group K, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/uzbekistan.jpg" type="image/jpeg" length="244563"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/uzbekistan.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/uzbekistan.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghana vs Panama — World Cup 2026 Group L Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-ghana-vs-panama-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-ghana-vs-panama-wc2026</guid>
-      <description>GoalSignal’s full preview of Ghana vs Panama — Group L, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/ghana.jpg" type="image/jpeg" length="247070"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/ghana.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/ghana.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
     <item>
@@ -505,6 +475,26 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/ivory-coast.jpg" type="image/jpeg" length="157260"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/ivory-coast.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/ivory-coast.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iraq vs Norway — World Cup 2026 Group I Preview</title>
+      <link>https://goalsignal.com/uk/news/gs-preview-iraq-vs-norway-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-iraq-vs-norway-wc2026</guid>
+      <description>GoalSignal’s full preview of Iraq vs Norway — Group I, World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" type="image/jpeg" length="261915"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg"/>
+      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Haiti vs Scotland — World Cup 2026 Group C Preview</title>
+      <link>https://goalsignal.com/uk/news/gs-preview-haiti-vs-scotland-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-haiti-vs-scotland-wc2026</guid>
+      <description>GoalSignal’s full preview of Haiti vs Scotland — Group C, World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/haiti.jpg" type="image/jpeg" length="123372"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/haiti.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/haiti.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
   </channel>
