@@ -6,7 +6,17 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 15 Jun 2026 08:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 09:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Qatar 1-1 Switzerland - World Cup 2026 Group B Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-qatar-vs-switzerland-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-qatar-vs-switzerland-wc2026</guid>
+      <description>How Qatar vs Switzerland unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg" type="image/jpeg" length="226667"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/qatar.jpg"/>
+      <pubDate>Mon, 15 Jun 2026 08:58:00 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: England vs Croatia — Home Win @ 1.727</title>
       <link>https://goalsignal.com/uk/news/xgshadow-england-vs-croatia-2026-06-17</link>
@@ -495,16 +505,6 @@
       <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" type="image/jpeg" length="235412"/>
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg"/>
-      <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Austria vs Jordan — World Cup 2026 Group J Preview</title>
-      <link>https://goalsignal.com/uk/news/gs-preview-austria-vs-jordan-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-preview-austria-vs-jordan-wc2026</guid>
-      <description>GoalSignal’s full preview of Austria vs Jordan — Group J, World Cup 2026.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg" type="image/jpeg" length="216608"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg"/>
       <pubDate>Wed, 10 Jun 2026 15:05:16 GMT</pubDate>
     </item>
   </channel>
