@@ -6,7 +6,17 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 18:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 18:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Ghana vs Panama — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-ghana-vs-panama-2026-06-17</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-ghana-vs-panama-2026-06-17</guid>
+      <description>Early Bird Eddie: Ghana vs Panama — Home Win @ 2.2</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Tue, 16 Jun 2026 18:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: England vs Croatia — Draw @ 3.8</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-england-vs-croatia-2026-06-17</link>
@@ -496,16 +506,6 @@
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
       <pubDate>Thu, 11 Jun 2026 07:15:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: Republic of Korea vs Czechia — Home Win @ 2.7</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-republicofkorea-vs-czechia-2026-06-12</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-republicofkorea-vs-czechia-2026-06-12</guid>
-      <description>ValueHunter: Republic of Korea vs Czechia — Home Win @ 2.7</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 07:15:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
