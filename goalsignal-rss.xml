@@ -6,7 +6,27 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 17:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: England vs Croatia — Draw @ 3.8</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-england-vs-croatia-2026-06-17</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-england-vs-croatia-2026-06-17</guid>
+      <description>Early Bird Eddie: England vs Croatia — Draw @ 3.8</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Tue, 16 Jun 2026 17:15:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Early Bird Eddie: Argentina vs Algeria — Draw @ 4.5</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-argentina-vs-algeria-2026-06-17</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-argentina-vs-algeria-2026-06-17</guid>
+      <description>Early Bird Eddie: Argentina vs Algeria — Draw @ 4.5</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
+      <pubDate>Tue, 16 Jun 2026 17:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Switzerland vs Bosnia and Herzegovina — Away Win @ 5.75</title>
       <link>https://goalsignal.com/uk/news/xgshadow-switzerland-vs-bosniaandherzegovina-2026-06-18</link>
@@ -486,26 +506,6 @@
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
       <pubDate>Thu, 11 Jun 2026 07:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Republic of Korea vs Czechia — Home Win @ 2.7</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-republicofkorea-vs-czechia-2026-06-12</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-republicofkorea-vs-czechia-2026-06-12</guid>
-      <description>Catenaccio Chris: Republic of Korea vs Czechia — Home Win @ 2.7</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 06:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Mexico vs South Africa — Away Win @ 9.5</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-mexico-vs-southafrica-2026-06-11</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-mexico-vs-southafrica-2026-06-11</guid>
-      <description>xGShadow: Mexico vs South Africa — Away Win @ 9.5</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 06:01:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
