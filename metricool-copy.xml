@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Metricool</title>
+	<atom:link href="https://metricool.com/es/feed/" rel="self" type="application/rss+xml" />
+	<link>https://metricool.com/es/</link>
+	<description></description>
+	<lastBuildDate>Wed, 17 Jun 2026 08:56:34 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+
+<image>
+	<url>https://metricool.com/wp-content/uploads/cropped-web-app-manifest-512x512-1-32x32.png</url>
+	<title>Metricool</title>
+	<link>https://metricool.com/es/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>10 Tendencias de Instagram en 2026: Qué Funciona Según los Datos</title>
+		<link>https://metricool.com/es/tendencias-instagram/</link>
+					<comments>https://metricool.com/es/tendencias-instagram/#respond</comments>
+		
+		<dc:creator><![CDATA[Cristina Doña]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 07:00:00 +0000</pubDate>
+				<category><![CDATA[Instagram]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=217039</guid>
+
+					<description><![CDATA[Instagram es cada vez más competitivo y no todos los formatos funcionan igual. Estas tendencias de Instagram en 2026 te ayudan a tomar mejores decisiones en tu estrategia de contenidos.]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/tendencias-instagram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>20 Prompts de Claude para Gestionar Redes Sociales</title>
+		<link>https://metricool.com/es/claude-prompts-para-redes-sociales/</link>
+					<comments>https://metricool.com/es/claude-prompts-para-redes-sociales/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordi San Ildefonso]]></dc:creator>
+		<pubDate>Wed, 17 Jun 2026 06:34:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=240422</guid>
+
+					<description><![CDATA[Con estos 20 prompts de Claude para redes sociales podrás planificar contenidos, revisar métricas, analizar competidores, detectar oportunidades y crear informes semanales con más foco y mejores decisiones.]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/claude-prompts-para-redes-sociales/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Estudio de Instagram 2026: Formatos, Estrategia y Datos</title>
+		<link>https://metricool.com/es/estudio-instagram/</link>
+					<comments>https://metricool.com/es/estudio-instagram/#respond</comments>
+		
+		<dc:creator><![CDATA[Blanca Ruiz]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 08:00:27 +0000</pubDate>
+				<category><![CDATA[Estudios]]></category>
+		<category><![CDATA[Instagram]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=240787</guid>
+
+					<description><![CDATA[Hemos analizado 24.364.803 publicaciones de 375.118 cuentas de todo el mundo para identificar las tendencias y patrones que están definiendo Instagram en 2026. ]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/estudio-instagram/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Los Mejores MCP Para Marketing en 2026</title>
+		<link>https://metricool.com/es/mcp-para-marketing/</link>
+					<comments>https://metricool.com/es/mcp-para-marketing/#respond</comments>
+		
+		<dc:creator><![CDATA[Cristina Doña]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=240900</guid>
+
+					<description><![CDATA[Los MCP permiten que tu IA trabaje directamente con tus herramientas de marketing, no solo con lo que escribes en el prompt. En esta guía repasamos los cinco más útiles para redes sociales, CRM, ecommerce e investigación, con casos de uso concretos para cada uno. ]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/mcp-para-marketing/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo Usar Claude para Gestionar Redes Sociales</title>
+		<link>https://metricool.com/es/como-usar-claude-para-redes-sociales/</link>
+					<comments>https://metricool.com/es/como-usar-claude-para-redes-sociales/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordi San Ildefonso]]></dc:creator>
+		<pubDate>Tue, 16 Jun 2026 05:18:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<category><![CDATA[Redes sociales]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=240055</guid>
+
+					<description><![CDATA[Descubre cómo usar Claude con Metricool para planificar, analizar y programar contenido en redes sociales con ayuda de la IA.]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/como-usar-claude-para-redes-sociales/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Canciones de TikTok 2026 Más Populares de la Semana</title>
+		<link>https://metricool.com/es/canciones-tiktok/</link>
+					<comments>https://metricool.com/es/canciones-tiktok/#respond</comments>
+		
+		<dc:creator><![CDATA[Cristina Doña]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2026 09:34:51 +0000</pubDate>
+				<category><![CDATA[TikTok]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=60282</guid>
+
+					<description><![CDATA[Los videos de TikTok se han convertido en una auténtica revolución en las redes y en el marketing digital. Un ingrediente que nunca ha faltado ha sido la música, por eso, aquí te traemos las canciones más populares de TikTok en 2026 para acompañar tus videos.]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/canciones-tiktok/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cómo Automatizar tus Informes de Redes Sociales con IA y Claude</title>
+		<link>https://metricool.com/es/como-automatizar-informes-redes-sociales-ia/</link>
+					<comments>https://metricool.com/es/como-automatizar-informes-redes-sociales-ia/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordi San Ildefonso]]></dc:creator>
+		<pubDate>Mon, 15 Jun 2026 06:07:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<category><![CDATA[Metricool]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=239906</guid>
+
+					<description><![CDATA[Automatiza tus informes de redes sociales con IA conectando Metricool con Claude. Analiza métricas, compara resultados y crea reportes para clientes más rápido.
+]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/como-automatizar-informes-redes-sociales-ia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Análisis de Competencia en Redes Sociales con IA: Guía Práctica con Metricool y Claude</title>
+		<link>https://metricool.com/es/analisis-competencia-redes-sociales-ia/</link>
+					<comments>https://metricool.com/es/analisis-competencia-redes-sociales-ia/#respond</comments>
+		
+		<dc:creator><![CDATA[Cristina Doña]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<category><![CDATA[Metricool]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=239793</guid>
+
+					<description><![CDATA[La IA puede ayudarte a analizar a tus competidores sin perder horas entre perfiles, métricas y hojas de cálculo. En esta guía vemos cómo usar Metricool MCP y Claude para comparar resultados, detectar patrones y convertir los datos en acciones para tu calendario de contenidos. ]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/analisis-competencia-redes-sociales-ia/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Rutina Semanal de Redes Sociales en 15 minutos con Claude y Metricool</title>
+		<link>https://metricool.com/es/rutina-redes-sociales-claude/</link>
+					<comments>https://metricool.com/es/rutina-redes-sociales-claude/#respond</comments>
+		
+		<dc:creator><![CDATA[Jordi San Ildefonso]]></dc:creator>
+		<pubDate>Fri, 12 Jun 2026 06:00:00 +0000</pubDate>
+				<category><![CDATA[IA en Marketing]]></category>
+		<category><![CDATA[Metricool]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=239903</guid>
+
+					<description><![CDATA[Con Claude conectado a Metricool mediante MCP, puedes analizar resultados, encontrar patrones, generar ideas y organizar tus publicaciones semanales desde una sola conversación.]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/rutina-redes-sociales-claude/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cuál es la Mejor Hora Para Publicar En LinkedIn</title>
+		<link>https://metricool.com/es/mejor-hora-para-publicar-en-linkedin/</link>
+					<comments>https://metricool.com/es/mejor-hora-para-publicar-en-linkedin/#respond</comments>
+		
+		<dc:creator><![CDATA[Cristina Doña]]></dc:creator>
+		<pubDate>Thu, 11 Jun 2026 07:30:00 +0000</pubDate>
+				<category><![CDATA[LinkedIn]]></category>
+		<guid isPermaLink="false">https://metricool.com/?p=147372</guid>
+
+					<description><![CDATA[¿Te has preguntado cuál es la mejor hora para publicar en LinkedIn? En este post, desvelamos cuál es el mejor momento para publicar. También te enseñamos cómo Metricool te ayuda a encontrar las mejores horas para compartir tus contenidos. ]]></description>
+		
+					<wfw:commentRss>https://metricool.com/es/mejor-hora-para-publicar-en-linkedin/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
