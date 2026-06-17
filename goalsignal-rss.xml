@@ -6,7 +6,47 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 10:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Austria 3-1 Jordan - World Cup 2026 Group J Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-austria-vs-jordan-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-austria-vs-jordan-wc2026</guid>
+      <description>How Austria vs Jordan unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg" type="image/jpeg" length="216608"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/austria.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:23:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argentina 3-0 Algeria - World Cup 2026 Group J Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-argentina-vs-algeria-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-argentina-vs-algeria-wc2026</guid>
+      <description>How Argentina vs Algeria unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg" type="image/jpeg" length="240370"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/argentina.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:21:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iraq 1-4 Norway - World Cup 2026 Group I Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-iraq-vs-norway-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-iraq-vs-norway-wc2026</guid>
+      <description>How Iraq vs Norway unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" type="image/jpeg" length="261915"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/iraq.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:19:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Iran 2-2 New Zealand - World Cup 2026 Group G Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-iran-vs-new-zealand-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-iran-vs-new-zealand-wc2026</guid>
+      <description>How Iran vs New Zealand unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/iran.jpg" type="image/jpeg" length="173793"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/iran.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/iran.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:10:00 GMT</pubDate>
+    </item>
     <item>
       <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
@@ -466,46 +506,6 @@
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
       <pubDate>Fri, 12 Jun 2026 04:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Republic of Korea vs Czechia — Away Win @ 2.9</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-republicofkorea-vs-czechia-2026-06-12</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-republicofkorea-vs-czechia-2026-06-12</guid>
-      <description>xGShadow: Republic of Korea vs Czechia — Away Win @ 2.9</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Fri, 12 Jun 2026 04:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>How GoalSignal Predicts Football Matches</title>
-      <link>https://goalsignal.com/uk/news/how-goalsignal-predicts-football-matches</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/how-goalsignal-predicts-football-matches</guid>
-      <description>50 AI models. Every bet published. Every loss on the record. This is how our predictions actually work.</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 19:25:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Brazil vs Morocco — Draw @ 3.8</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-morocco-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-morocco-2026-06-13</guid>
-      <description>Early Bird Eddie: Brazil vs Morocco — Draw @ 3.8</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 14:19:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s match (Thursday 11 June)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-11</guid>
-      <description>World Cup 2026 — today’s match (Thursday 11 June)</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 14:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
