@@ -6,7 +6,47 @@
     <atom:link href="https://stratechmedia.github.io/goalsignal-feed/goalsignal-rss.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 10:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
+      <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" type="image/jpeg" length="235412"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
+      <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/saudi-arabia.jpg" type="image/jpeg" length="291637"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/saudi-arabia.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/saudi-arabia.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Belgium 1-1 Egypt - World Cup 2026 Group G Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-belgium-vs-egypt-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-belgium-vs-egypt-wc2026</guid>
+      <description>How Belgium vs Egypt unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/belgium.jpg" type="image/jpeg" length="207521"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/belgium.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/belgium.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spain 0-0 Cabo Verde - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cabo-verde-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cabo-verde-wc2026</guid>
+      <description>How Spain vs Cabo Verde unfolded - full match report from World Cup 2026.</description>
+      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" type="image/jpeg" length="235412"/>
+      <media:content url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg" medium="image" type="image/jpeg"/>
+      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/teams/spain.jpg"/>
+      <pubDate>Wed, 17 Jun 2026 10:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: Switzerland vs Bosnia and Herzegovina — Draw @ 4.2</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-switzerland-vs-bosniaandherzegovina-2026-06-18</link>
@@ -466,46 +506,6 @@
       <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
       <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
       <pubDate>Thu, 11 Jun 2026 14:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Brazil vs Morocco — Home Win @ 1.667</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-brazil-vs-morocco-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-brazil-vs-morocco-2026-06-13</guid>
-      <description>Catenaccio Chris: Brazil vs Morocco — Home Win @ 1.667</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 12:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Qatar vs Switzerland — Home Win @ 15</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-qatar-vs-switzerland-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-qatar-vs-switzerland-2026-06-13</guid>
-      <description>Catenaccio Chris: Qatar vs Switzerland — Home Win @ 15</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 12:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: USA vs Paraguay — Home Win @ 1.95</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-usa-vs-paraguay-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-usa-vs-paraguay-2026-06-13</guid>
-      <description>Early Bird Eddie: USA vs Paraguay — Home Win @ 1.95</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 09:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: USA vs Paraguay — Home Win @ 1.95</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-usa-vs-paraguay-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-usa-vs-paraguay-2026-06-13</guid>
-      <description>Catenaccio Chris: USA vs Paraguay — Home Win @ 1.95</description>
-      <enclosure url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" type="image/jpeg" length="25297"/>
-      <media:content url="https://stratechmedia.github.io/goalsignal-feed/card.jpg" medium="image" type="image/jpeg"/>
-      <media:thumbnail url="https://stratechmedia.github.io/goalsignal-feed/card.jpg"/>
-      <pubDate>Thu, 11 Jun 2026 09:15:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
