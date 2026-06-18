@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 07:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 07:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Daily recap</title>
+      <link>https://goalsignal.com/uk/news/gs-daily-2026-06-18-daily-recap</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-daily-2026-06-18-daily-recap</guid>
+      <description>Daily recap</description>
+      <pubDate>Thu, 18 Jun 2026 07:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ghana vs Panama — SteadyHand backs Draw</title>
+      <link>https://goalsignal.com/uk/news/gs-conviction-2026-06-17-ghana-vs-panama-steadyhand-backs-draw</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-conviction-2026-06-17-ghana-vs-panama-steadyhand-backs-draw</guid>
+      <description>Ghana vs Panama — SteadyHand backs Draw</description>
+      <pubDate>Thu, 18 Jun 2026 07:33:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>England vs Croatia — the models disagree</title>
+      <link>https://goalsignal.com/uk/news/gs-battle-2026-06-17-england-vs-croatia-the-models-disagree</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-battle-2026-06-17-england-vs-croatia-the-models-disagree</guid>
+      <description>England vs Croatia — the models disagree</description>
+      <pubDate>Thu, 18 Jun 2026 07:33:37 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: Canada vs Qatar — Away Win @ 10</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-canada-vs-qatar-2026-06-18</link>
@@ -57,17 +78,17 @@
       <pubDate>Wed, 17 Jun 2026 10:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
-      <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
       <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
+      <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
     </item>
     <item>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-12</guid>
       <description>World Cup 2026 — today’s 2 matches (Friday 12 June)</description>
       <pubDate>Fri, 12 Jun 2026 11:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mexico 2-0 South Africa - World Cup 2026 Group A Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-africa-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-africa-wc2026</guid>
-      <description>How Mexico vs South Africa unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Fri, 12 Jun 2026 10:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Ivory Coast vs Ecuador — Home Win @ 3.6</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-ecuador-2026-06-14</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-ecuador-2026-06-14</guid>
-      <description>Catenaccio Chris: Ivory Coast vs Ecuador — Home Win @ 3.6</description>
-      <pubDate>Fri, 12 Jun 2026 07:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: USA vs Paraguay — Home Win @ 2.1</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-usa-vs-paraguay-2026-06-13</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-usa-vs-paraguay-2026-06-13</guid>
-      <description>ValueHunter: USA vs Paraguay — Home Win @ 2.1</description>
-      <pubDate>Fri, 12 Jun 2026 06:15:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
