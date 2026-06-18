@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 5 matches (Thursday 18 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-18</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-18</guid>
+      <description>World Cup 2026 — today’s 5 matches (Thursday 18 June)</description>
+      <pubDate>Thu, 18 Jun 2026 05:00:32 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Netherlands vs Sweden — Home Win @ 1.727</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-netherlands-vs-sweden-2026-06-20</link>
@@ -43,17 +50,17 @@
       <pubDate>Wed, 17 Jun 2026 10:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
-      <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
       <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
+      <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
     </item>
     <item>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-australia-vs-turkiye-2026-06-14</guid>
       <description>Catenaccio Chris: Australia vs Turkiye — Home Win @ 5</description>
       <pubDate>Fri, 12 Jun 2026 05:15:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Haiti vs Scotland — Home Win @ 5.25</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-haiti-vs-scotland-2026-06-14</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-haiti-vs-scotland-2026-06-14</guid>
-      <description>Catenaccio Chris: Haiti vs Scotland — Home Win @ 5.25</description>
-      <pubDate>Fri, 12 Jun 2026 05:15:41 GMT</pubDate>
     </item>
   </channel>
 </rss>
