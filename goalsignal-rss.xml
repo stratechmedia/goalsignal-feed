@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Canada vs Qatar — Away Win @ 10</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-canada-vs-qatar-2026-06-18</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-canada-vs-qatar-2026-06-18</guid>
+      <description>Early Bird Eddie: Canada vs Qatar — Away Win @ 10</description>
+      <pubDate>Thu, 18 Jun 2026 06:15:35 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 5 matches (Thursday 18 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-18</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-usa-vs-paraguay-2026-06-13</guid>
       <description>ValueHunter: USA vs Paraguay — Home Win @ 2.1</description>
       <pubDate>Fri, 12 Jun 2026 06:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Australia vs Turkiye — Home Win @ 5</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-australia-vs-turkiye-2026-06-14</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-australia-vs-turkiye-2026-06-14</guid>
-      <description>Catenaccio Chris: Australia vs Turkiye — Home Win @ 5</description>
-      <pubDate>Fri, 12 Jun 2026 05:15:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
