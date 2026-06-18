@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 20:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 21:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Scotland vs Morocco — value on Draw</title>
+      <link>https://goalsignal.com/uk/news/gs-value-2026-06-18-scotland-vs-morocco-value-on-draw</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-18-scotland-vs-morocco-value-on-draw</guid>
+      <description>Scotland vs Morocco — value on Draw</description>
+      <pubDate>Thu, 18 Jun 2026 21:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Mexico vs South Korea — Home Win @ 2.05</title>
       <link>https://goalsignal.com/uk/news/valuehunter-mexico-vs-southkorea-2026-06-19</link>
@@ -246,17 +253,17 @@
       <pubDate>Wed, 17 Jun 2026 10:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
-      <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
-    </item>
-    <item>
       <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
       <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spain 0-0 Cape Verde - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-cape-verde-wc2026</guid>
+      <description>How Spain vs Cape Verde unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
     </item>
     <item>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-uzbekistan-vs-colombia-2026-06-18</guid>
       <description>xGShadow: Uzbekistan vs Colombia — Home Win @ 9</description>
       <pubDate>Tue, 16 Jun 2026 04:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sweden 5-1 Tunisia - World Cup 2026 Group F Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-sweden-vs-tunisia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-sweden-vs-tunisia-wc2026</guid>
-      <description>How Sweden vs Tunisia unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Mon, 15 Jun 2026 10:28:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
