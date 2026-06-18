@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 18:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 19:11:00 GMT</lastBuildDate>
+    <item>
+      <title>USA vs Australia — best price on USA win</title>
+      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-18-usa-vs-australia-best-price-on-usa-win</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-18-usa-vs-australia-best-price-on-usa-win</guid>
+      <description>USA vs Australia — best price on USA win</description>
+      <pubDate>Thu, 18 Jun 2026 19:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Canada vs Qatar — odds moving on Qatar win</title>
       <link>https://goalsignal.com/uk/news/gs-movers-2026-06-18-canada-vs-qatar-odds-moving-on-qatar-win</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-germany-vs-curacao-wc2026</guid>
       <description>How Germany vs Curacao unfolded - full match report from World Cup 2026.</description>
       <pubDate>Mon, 15 Jun 2026 10:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Australia 2-0 Turkiye - World Cup 2026 Group D Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-australia-vs-turkiye-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-australia-vs-turkiye-wc2026</guid>
-      <description>How Australia vs Turkiye unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Mon, 15 Jun 2026 10:19:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
