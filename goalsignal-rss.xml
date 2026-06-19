@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 3 matches (Friday 19 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-19</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-19</guid>
+      <description>World Cup 2026 — today’s 3 matches (Friday 19 June)</description>
+      <pubDate>Fri, 19 Jun 2026 05:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Tunisia vs Japan — Home Win @ 6.5</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-tunisia-vs-japan-2026-06-21</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-switzerland-vs-bosniaandherzegovina-2026-06-18</guid>
       <description>xGShadow: Switzerland vs Bosnia and Herzegovina — Away Win @ 5.75</description>
       <pubDate>Tue, 16 Jun 2026 05:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Czechia vs South Africa — Home Win @ 1.75</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-czechia-vs-southafrica-2026-06-18</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-czechia-vs-southafrica-2026-06-18</guid>
-      <description>Catenaccio Chris: Czechia vs South Africa — Home Win @ 1.75</description>
-      <pubDate>Tue, 16 Jun 2026 05:15:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
