@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 10:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Turkiye vs Paraguay — Home Win @ 2.05</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-turkiye-vs-paraguay-2026-06-20</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-turkiye-vs-paraguay-2026-06-20</guid>
+      <description>Early Bird Eddie: Turkiye vs Paraguay — Home Win @ 2.05</description>
+      <pubDate>Fri, 19 Jun 2026 10:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>Mexico 1-0 South Korea - World Cup 2026 Group A Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-netherlands-vs-sweden-2026-06-20</guid>
       <description>Catenaccio Chris: Netherlands vs Sweden — Home Win @ 1.727</description>
       <pubDate>Thu, 18 Jun 2026 04:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Austria 3-1 Jordan - World Cup 2026 Group J Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-austria-vs-jordan-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-austria-vs-jordan-wc2026</guid>
-      <description>How Austria vs Jordan unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:23:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
