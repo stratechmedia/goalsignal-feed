@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 08:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 09:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Netherlands vs Sweden — best price on Netherlands win</title>
+      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-netherlands</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-netherlands</guid>
+      <description>Netherlands vs Sweden — best price on Netherlands win</description>
+      <pubDate>Fri, 19 Jun 2026 09:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scotland vs Morocco — value on Scotland win</title>
+      <link>https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-scotland-win</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-scotland-win</guid>
+      <description>Scotland vs Morocco — value on Scotland win</description>
+      <pubDate>Fri, 19 Jun 2026 09:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Netherlands vs Sweden — best price on Draw</title>
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-draw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-iraq-vs-norway-wc2026</guid>
       <description>How Iraq vs Norway unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 17 Jun 2026 10:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iran 2-2 New Zealand - World Cup 2026 Group G Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-iran-vs-new-zealand-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-iran-vs-new-zealand-wc2026</guid>
-      <description>How Iran vs New Zealand unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:10:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Saudi Arabia 1-1 Uruguay - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-saudi-arabia-vs-uruguay-wc2026</guid>
-      <description>How Saudi Arabia vs Uruguay unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:07:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
