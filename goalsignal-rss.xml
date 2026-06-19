@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 10:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Mexico 1-0 South Korea - World Cup 2026 Group A Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</guid>
+      <description>How Mexico vs South Korea unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Fri, 19 Jun 2026 10:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canada 6-0 Qatar - World Cup 2026 Group B Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-canada-vs-qatar-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-canada-vs-qatar-wc2026</guid>
+      <description>How Canada vs Qatar unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Fri, 19 Jun 2026 10:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Netherlands vs Sweden — best price on Sweden win</title>
+      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-sweden-win</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-sweden-win</guid>
+      <description>Netherlands vs Sweden — best price on Sweden win</description>
+      <pubDate>Fri, 19 Jun 2026 10:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Netherlands vs Sweden — best price on Netherlands win</title>
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-netherlands</link>
@@ -104,13 +125,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-tunisia-vs-japan-2026-06-21</guid>
       <description>Catenaccio Chris: Tunisia vs Japan — Home Win @ 6.5</description>
       <pubDate>Fri, 19 Jun 2026 04:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Switzerland 4-1 Bosnia and Herzegovina - World Cup 2026 Group B Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-switzerland-vs-bosnia-and-herzegovina-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-switzerland-vs-bosnia-and-herzegovina-wc2026</guid>
-      <description>How Switzerland vs Bosnia and Herzegovina unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Thu, 18 Jun 2026 21:16:04 GMT</pubDate>
     </item>
     <item>
       <title>Catenaccio Chris: USA vs Australia — Home Win @ 1.615</title>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-austria-vs-jordan-wc2026</guid>
       <description>How Austria vs Jordan unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 17 Jun 2026 10:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argentina 3-0 Algeria - World Cup 2026 Group J Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-argentina-vs-algeria-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-argentina-vs-algeria-wc2026</guid>
-      <description>How Argentina vs Algeria unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iraq 1-4 Norway - World Cup 2026 Group I Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-iraq-vs-norway-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-iraq-vs-norway-wc2026</guid>
-      <description>How Iraq vs Norway unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 17 Jun 2026 10:19:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
