@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Germany vs Ivory Coast — Away Win @ 5.75</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-ivorycoast-2026-06-20</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-ivorycoast-2026-06-20</guid>
+      <description>Early Bird Eddie: Germany vs Ivory Coast — Away Win @ 5.75</description>
+      <pubDate>Fri, 19 Jun 2026 06:15:50 GMT</pubDate>
+    </item>
     <item>
       <title>Daily recap</title>
       <link>https://goalsignal.com/uk/news/gs-daily-2026-06-19-daily-recap</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-switzerland-vs-bosniaandherzegovina-2026-06-18</guid>
       <description>Early Bird Eddie: Switzerland vs Bosnia and Herzegovina — Draw @ 4.2</description>
       <pubDate>Wed, 17 Jun 2026 08:15:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s 4 matches (Wednesday 17 June)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-17</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-17</guid>
-      <description>World Cup 2026 — today’s 4 matches (Wednesday 17 June)</description>
-      <pubDate>Wed, 17 Jun 2026 05:00:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
