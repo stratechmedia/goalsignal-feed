@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 19:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Drift Detector: Scotland vs Morocco — Away Win @ 1.65</title>
+      <link>https://goalsignal.com/uk/news/driftdetector-scotland-vs-morocco-2026-06-19</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/driftdetector-scotland-vs-morocco-2026-06-19</guid>
+      <description>Drift Detector: Scotland vs Morocco — Away Win @ 1.65</description>
+      <pubDate>Fri, 19 Jun 2026 19:15:46 GMT</pubDate>
+    </item>
     <item>
       <title>Germany vs Ivory Coast — best price on Draw</title>
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-germany-vs-ivory-coast-best-price-on-draw</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-battle-2026-06-18-czechia-vs-south-africa-the-models-disagree</guid>
       <description>Czechia vs South Africa — the models disagree</description>
       <pubDate>Thu, 18 Jun 2026 14:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Mexico vs South Korea — Home Win @ 2.05</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-mexico-vs-southkorea-2026-06-19</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-mexico-vs-southkorea-2026-06-19</guid>
-      <description>Early Bird Eddie: Mexico vs South Korea — Home Win @ 2.05</description>
-      <pubDate>Thu, 18 Jun 2026 13:15:44 GMT</pubDate>
     </item>
   </channel>
 </rss>
