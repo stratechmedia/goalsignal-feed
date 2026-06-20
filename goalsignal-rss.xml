@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 04:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</guid>
+      <description>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</description>
+      <pubDate>Sat, 20 Jun 2026 04:15:42 GMT</pubDate>
+    </item>
     <item>
       <title>Germany vs Ivory Coast — value on Draw</title>
       <link>https://goalsignal.com/uk/news/gs-value-2026-06-19-germany-vs-ivory-coast-value-on-draw</link>
@@ -348,13 +355,6 @@
       <link>https://goalsignal.com/uk/news/gs-steam-2026-06-18-turkiye-vs-paraguay-4-models-steam-turkiye-win</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-steam-2026-06-18-turkiye-vs-paraguay-4-models-steam-turkiye-win</guid>
       <description>Turkiye vs Paraguay — 4 models steam Turkiye win</description>
-      <pubDate>Thu, 18 Jun 2026 15:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mexico vs South Korea — value on Mexico win</title>
-      <link>https://goalsignal.com/uk/news/gs-value-2026-06-18-mexico-vs-south-korea-value-on-mexico-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-18-mexico-vs-south-korea-value-on-mexico-win</guid>
-      <description>Mexico vs South Korea — value on Mexico win</description>
       <pubDate>Thu, 18 Jun 2026 15:00:01 GMT</pubDate>
     </item>
   </channel>
