@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 10:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 11:11:00 GMT</lastBuildDate>
+    <item>
+      <title>USA 2-0 Australia - World Cup 2026 Group D Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-usa-vs-australia-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-usa-vs-australia-wc2026</guid>
+      <description>How USA vs Australia unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sat, 20 Jun 2026 10:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brazil 3-0 Haiti - World Cup 2026 Group C Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-brazil-vs-haiti-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-brazil-vs-haiti-wc2026</guid>
+      <description>How Brazil vs Haiti unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sat, 20 Jun 2026 10:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scotland 0-1 Morocco - World Cup 2026 Group C Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-scotland-vs-morocco-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-scotland-vs-morocco-wc2026</guid>
+      <description>How Scotland vs Morocco unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sat, 20 Jun 2026 10:52:00 GMT</pubDate>
+    </item>
     <item>
       <title>Belgium vs Iran — best price on Draw</title>
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-20-belgium-vs-iran-best-price-on-draw</link>
@@ -50,17 +71,17 @@
       <pubDate>Sat, 20 Jun 2026 06:00:02 GMT</pubDate>
     </item>
     <item>
-      <title>Daily recap</title>
-      <link>https://goalsignal.com/uk/news/gs-daily-2026-06-20-daily-recap</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-daily-2026-06-20-daily-recap</guid>
-      <description>Daily recap</description>
-      <pubDate>Sat, 20 Jun 2026 06:00:02 GMT</pubDate>
-    </item>
-    <item>
       <title>Netherlands vs Sweden — value on Sweden win</title>
       <link>https://goalsignal.com/uk/news/gs-value-2026-06-20-netherlands-vs-sweden-value-on-sweden-win</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-20-netherlands-vs-sweden-value-on-sweden-win</guid>
       <description>Netherlands vs Sweden — value on Sweden win</description>
+      <pubDate>Sat, 20 Jun 2026 06:00:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daily recap</title>
+      <link>https://goalsignal.com/uk/news/gs-daily-2026-06-20-daily-recap</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-daily-2026-06-20-daily-recap</guid>
+      <description>Daily recap</description>
       <pubDate>Sat, 20 Jun 2026 06:00:02 GMT</pubDate>
     </item>
     <item>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-18-usa-vs-australia-odds-moving-on-australia-win</guid>
       <description>USA vs Australia — odds moving on Australia win</description>
       <pubDate>Thu, 18 Jun 2026 20:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>USA vs Australia — best price on USA win</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-18-usa-vs-australia-best-price-on-usa-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-18-usa-vs-australia-best-price-on-usa-win</guid>
-      <description>USA vs Australia — best price on USA win</description>
-      <pubDate>Thu, 18 Jun 2026 19:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canada vs Qatar — odds moving on Qatar win</title>
-      <link>https://goalsignal.com/uk/news/gs-movers-2026-06-18-canada-vs-qatar-odds-moving-on-qatar-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-18-canada-vs-qatar-odds-moving-on-qatar-win</guid>
-      <description>Canada vs Qatar — odds moving on Qatar win</description>
-      <pubDate>Thu, 18 Jun 2026 18:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scotland vs Morocco — value on Morocco win</title>
-      <link>https://goalsignal.com/uk/news/gs-value-2026-06-18-scotland-vs-morocco-value-on-morocco-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-18-scotland-vs-morocco-value-on-morocco-win</guid>
-      <description>Scotland vs Morocco — value on Morocco win</description>
-      <pubDate>Thu, 18 Jun 2026 18:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
