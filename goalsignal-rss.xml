@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 4 matches (Saturday 20 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-20</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-20</guid>
+      <description>World Cup 2026 — today’s 4 matches (Saturday 20 June)</description>
+      <pubDate>Sat, 20 Jun 2026 05:00:03 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-18-scotland-vs-morocco-odds-moving-on-scotland-win</guid>
       <description>Scotland vs Morocco — odds moving on Scotland win</description>
       <pubDate>Thu, 18 Jun 2026 15:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turkiye vs Paraguay — 4 models steam Turkiye win</title>
-      <link>https://goalsignal.com/uk/news/gs-steam-2026-06-18-turkiye-vs-paraguay-4-models-steam-turkiye-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-steam-2026-06-18-turkiye-vs-paraguay-4-models-steam-turkiye-win</guid>
-      <description>Turkiye vs Paraguay — 4 models steam Turkiye win</description>
-      <pubDate>Thu, 18 Jun 2026 15:00:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
