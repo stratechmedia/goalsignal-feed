@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 21:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 21:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: Portugal vs Uzbekistan — Away Win @ 13</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-portugal-vs-uzbekistan-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-portugal-vs-uzbekistan-2026-06-23</guid>
+      <description>xGShadow: Portugal vs Uzbekistan — Away Win @ 13</description>
+      <pubDate>Sun, 21 Jun 2026 21:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Jordan vs Algeria — Home Win @ 5.5</title>
       <link>https://goalsignal.com/uk/news/valuehunter-jordan-vs-algeria-2026-06-23</link>
@@ -348,13 +355,6 @@
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-turkiye-vs-paraguay-best-price-on-turkiye-win</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-turkiye-vs-paraguay-best-price-on-turkiye-win</guid>
       <description>Turkiye vs Paraguay — best price on Turkiye win</description>
-      <pubDate>Fri, 19 Jun 2026 11:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scotland vs Morocco — value on Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-draw</guid>
-      <description>Scotland vs Morocco — value on Draw</description>
       <pubDate>Fri, 19 Jun 2026 11:00:02 GMT</pubDate>
     </item>
   </channel>
