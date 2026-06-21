@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 19:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: New Zealand vs Egypt — Home Win @ 5.75</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-newzealand-vs-egypt-2026-06-22</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-newzealand-vs-egypt-2026-06-22</guid>
+      <description>ValueHunter: New Zealand vs Egypt — Home Win @ 5.75</description>
+      <pubDate>Sun, 21 Jun 2026 19:15:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: New Zealand vs Egypt — Home Win @ 5.75</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-newzealand-vs-egypt-2026-06-22</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-newzealand-vs-egypt-2026-06-22</guid>
+      <description>xGShadow: New Zealand vs Egypt — Home Win @ 5.75</description>
+      <pubDate>Sun, 21 Jun 2026 19:15:45 GMT</pubDate>
+    </item>
     <item>
       <title>Tunisia 0-4 Japan - World Cup 2026 Group F Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-tunisia-vs-japan-wc2026</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</guid>
       <description>How Mexico vs South Korea unfolded - full match report from World Cup 2026.</description>
       <pubDate>Fri, 19 Jun 2026 10:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Canada 6-0 Qatar - World Cup 2026 Group B Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-canada-vs-qatar-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-canada-vs-qatar-wc2026</guid>
-      <description>How Canada vs Qatar unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Fri, 19 Jun 2026 10:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netherlands vs Sweden — best price on Sweden win</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-sweden-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-netherlands-vs-sweden-best-price-on-sweden-win</guid>
-      <description>Netherlands vs Sweden — best price on Sweden win</description>
-      <pubDate>Fri, 19 Jun 2026 10:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
