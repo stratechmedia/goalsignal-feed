@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 20:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 20:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Jordan vs Algeria — Home Win @ 5.5</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-jordan-vs-algeria-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-jordan-vs-algeria-2026-06-23</guid>
+      <description>ValueHunter: Jordan vs Algeria — Home Win @ 5.5</description>
+      <pubDate>Sun, 21 Jun 2026 20:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>ValueHunter: Norway vs Senegal — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-norway-vs-senegal-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-norway-vs-senegal-2026-06-23</guid>
+      <description>ValueHunter: Norway vs Senegal — Home Win @ 2.2</description>
+      <pubDate>Sun, 21 Jun 2026 20:15:54 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: New Zealand vs Egypt — Home Win @ 5.75</title>
       <link>https://goalsignal.com/uk/news/valuehunter-newzealand-vs-egypt-2026-06-22</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-draw</guid>
       <description>Scotland vs Morocco — value on Draw</description>
       <pubDate>Fri, 19 Jun 2026 11:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Turkiye vs Paraguay — Home Win @ 2.05</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-turkiye-vs-paraguay-2026-06-20</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-turkiye-vs-paraguay-2026-06-20</guid>
-      <description>Early Bird Eddie: Turkiye vs Paraguay — Home Win @ 2.05</description>
-      <pubDate>Fri, 19 Jun 2026 10:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mexico 1-0 South Korea - World Cup 2026 Group A Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-mexico-vs-south-korea-wc2026</guid>
-      <description>How Mexico vs South Korea unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Fri, 19 Jun 2026 10:03:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
