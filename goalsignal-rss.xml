@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 07:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 07:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Norway vs Senegal — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-norway-vs-senegal-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-norway-vs-senegal-2026-06-23</guid>
+      <description>Catenaccio Chris: Norway vs Senegal — Home Win @ 2.2</description>
+      <pubDate>Sun, 21 Jun 2026 07:15:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: Norway vs Senegal — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-norway-vs-senegal-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-norway-vs-senegal-2026-06-23</guid>
+      <description>xGShadow: Norway vs Senegal — Home Win @ 2.2</description>
+      <pubDate>Sun, 21 Jun 2026 07:15:44 GMT</pubDate>
+    </item>
     <item>
       <title>New Zealand vs Egypt — best price on Draw</title>
       <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-21-new-zealand-vs-egypt-best-price-on-draw</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-19-scotland-vs-morocco-value-on-morocco-win</guid>
       <description>Scotland vs Morocco — value on Morocco win</description>
       <pubDate>Fri, 19 Jun 2026 07:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Germany vs Ivory Coast — Away Win @ 5.75</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-ivorycoast-2026-06-20</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-ivorycoast-2026-06-20</guid>
-      <description>Early Bird Eddie: Germany vs Ivory Coast — Away Win @ 5.75</description>
-      <pubDate>Fri, 19 Jun 2026 06:15:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daily recap</title>
-      <link>https://goalsignal.com/uk/news/gs-daily-2026-06-19-daily-recap</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-daily-2026-06-19-daily-recap</guid>
-      <description>Daily recap</description>
-      <pubDate>Fri, 19 Jun 2026 06:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
