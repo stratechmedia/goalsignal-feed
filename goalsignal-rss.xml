@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 10:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 11:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Spain 4-0 Saudi Arabia - World Cup 2026 Group H Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-spain-vs-saudi-arabia-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-spain-vs-saudi-arabia-wc2026</guid>
+      <description>How Spain vs Saudi Arabia unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Mon, 22 Jun 2026 10:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argentina vs Austria: World Cup Group Stage Preview</title>
+      <link>https://goalsignal.com/uk/news/argentina-austria-udkast-4667815</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/argentina-austria-udkast-4667815</guid>
+      <description>The defending champions meet an Austria side under the newly re-committed Ralf Rangnick in the second group-stage match of the 2026 World Cup at AT&amp;T Stadium.</description>
+      <pubDate>Mon, 22 Jun 2026 10:41:00 GMT</pubDate>
+    </item>
     <item>
       <title>New Zealand 1-3 Egypt - World Cup 2026 Group G Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-new-zealand-vs-egypt-wc2026</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-usa-vs-australia-best-price-on-australia-win</guid>
       <description>USA vs Australia — best price on Australia win</description>
       <pubDate>Fri, 19 Jun 2026 15:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>USA vs Australia — best price on USA win</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-usa-vs-australia-best-price-on-usa-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-usa-vs-australia-best-price-on-usa-win</guid>
-      <description>USA vs Australia — best price on USA win</description>
-      <pubDate>Fri, 19 Jun 2026 14:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scotland vs Morocco — odds moving on Scotland win</title>
-      <link>https://goalsignal.com/uk/news/gs-movers-2026-06-19-scotland-vs-morocco-odds-moving-on-scotland-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-19-scotland-vs-morocco-odds-moving-on-scotland-win</guid>
-      <description>Scotland vs Morocco — odds moving on Scotland win</description>
-      <pubDate>Fri, 19 Jun 2026 14:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
