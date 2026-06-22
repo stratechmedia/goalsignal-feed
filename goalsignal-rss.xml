@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 04:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: Panama vs Croatia — Home Win @ 6.5</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-panama-vs-croatia-2026-06-23</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-panama-vs-croatia-2026-06-23</guid>
+      <description>xGShadow: Panama vs Croatia — Home Win @ 6.5</description>
+      <pubDate>Mon, 22 Jun 2026 04:15:50 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Portugal vs Uzbekistan — Away Win @ 13</title>
       <link>https://goalsignal.com/uk/news/xgshadow-portugal-vs-uzbekistan-2026-06-23</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-conviction-2026-06-19-usa-vs-australia-steadyhand-backs-usa-win</guid>
       <description>USA vs Australia — SteadyHand backs USA win</description>
       <pubDate>Fri, 19 Jun 2026 12:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turkiye vs Paraguay — best price on Turkiye win</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-turkiye-vs-paraguay-best-price-on-turkiye-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-turkiye-vs-paraguay-best-price-on-turkiye-win</guid>
-      <description>Turkiye vs Paraguay — best price on Turkiye win</description>
-      <pubDate>Fri, 19 Jun 2026 11:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
