@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 16:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 16:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Scotland vs Brazil — Home Win @ 8</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-scotland-vs-brazil-2026-06-24</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-scotland-vs-brazil-2026-06-24</guid>
+      <description>Catenaccio Chris: Scotland vs Brazil — Home Win @ 8</description>
+      <pubDate>Tue, 23 Jun 2026 16:16:14 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Morocco vs Haiti — Away Win @ 15</title>
       <link>https://goalsignal.com/uk/news/xgshadow-morocco-vs-haiti-2026-06-24</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</guid>
       <description>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</description>
       <pubDate>Sat, 20 Jun 2026 04:15:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Germany vs Ivory Coast — value on Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-value-2026-06-19-germany-vs-ivory-coast-value-on-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-19-germany-vs-ivory-coast-value-on-draw</guid>
-      <description>Germany vs Ivory Coast — value on Draw</description>
-      <pubDate>Fri, 19 Jun 2026 20:00:01 GMT</pubDate>
     </item>
   </channel>
 </rss>
