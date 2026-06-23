@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 08:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 09:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Jordan 1-2 Algeria - World Cup 2026 Group J Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-jordan-vs-algeria-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-jordan-vs-algeria-wc2026</guid>
+      <description>How Jordan vs Algeria unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Tue, 23 Jun 2026 09:06:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>France 3-0 Iraq - World Cup 2026 Group I Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-france-vs-iraq-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-france-vs-iraq-wc2026</guid>
+      <description>How France vs Iraq unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Tue, 23 Jun 2026 09:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Argentina 2-0 Austria - World Cup 2026 Group J Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-argentina-vs-austria-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-argentina-vs-austria-wc2026</guid>
+      <description>How Argentina vs Austria unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Tue, 23 Jun 2026 08:57:00 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 4 matches (Tuesday 23 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-23</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/driftdetector-scotland-vs-morocco-2026-06-19</guid>
       <description>Drift Detector: Scotland vs Morocco — Away Win @ 1.65</description>
       <pubDate>Fri, 19 Jun 2026 19:15:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Germany vs Ivory Coast — best price on Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-germany-vs-ivory-coast-best-price-on-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-19-germany-vs-ivory-coast-best-price-on-draw</guid>
-      <description>Germany vs Ivory Coast — best price on Draw</description>
-      <pubDate>Fri, 19 Jun 2026 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turkiye vs Paraguay — odds moving on Paraguay win</title>
-      <link>https://goalsignal.com/uk/news/gs-movers-2026-06-19-turkiye-vs-paraguay-odds-moving-on-paraguay-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-19-turkiye-vs-paraguay-odds-moving-on-paraguay-win</guid>
-      <description>Turkiye vs Paraguay — odds moving on Paraguay win</description>
-      <pubDate>Fri, 19 Jun 2026 19:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netherlands vs Sweden — odds moving on Sweden win</title>
-      <link>https://goalsignal.com/uk/news/gs-movers-2026-06-19-netherlands-vs-sweden-odds-moving-on-sweden-win</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-19-netherlands-vs-sweden-odds-moving-on-sweden-win</guid>
-      <description>Netherlands vs Sweden — odds moving on Sweden win</description>
-      <pubDate>Fri, 19 Jun 2026 16:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
