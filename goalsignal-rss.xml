@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 19:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Czechia vs Mexico — Home Win @ 3.5</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-czechia-vs-mexico-2026-06-25</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-czechia-vs-mexico-2026-06-25</guid>
+      <description>Catenaccio Chris: Czechia vs Mexico — Home Win @ 3.5</description>
+      <pubDate>Tue, 23 Jun 2026 19:16:27 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Scotland vs Brazil — Home Win @ 8</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-scotland-vs-brazil-2026-06-24</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-20</guid>
       <description>World Cup 2026 — today’s 4 matches (Saturday 20 June)</description>
       <pubDate>Sat, 20 Jun 2026 05:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-egypt-2026-06-22</guid>
-      <description>Catenaccio Chris: New Zealand vs Egypt — Home Win @ 5.5</description>
-      <pubDate>Sat, 20 Jun 2026 04:15:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
