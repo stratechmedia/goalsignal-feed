@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 14:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 14:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Norway vs France — Home Win @ 5.25</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-norway-vs-france-2026-06-26</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-norway-vs-france-2026-06-26</guid>
+      <description>ValueHunter: Norway vs France — Home Win @ 5.25</description>
+      <pubDate>Wed, 24 Jun 2026 14:17:20 GMT</pubDate>
+    </item>
     <item>
       <title>Colombia 1-0 DR Congo - World Cup 2026 Group K Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-colombia-vs-dr-congo-wc2026</link>
@@ -348,13 +355,6 @@
       <link>https://goalsignal.com/uk/news/gs-steam-2026-06-21-norway-vs-senegal-3-models-steam-norway-win</link>
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-steam-2026-06-21-norway-vs-senegal-3-models-steam-norway-win</guid>
       <description>Norway vs Senegal — 3 models steam Norway win</description>
-      <pubDate>Sun, 21 Jun 2026 06:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Daily recap</title>
-      <link>https://goalsignal.com/uk/news/gs-daily-2026-06-21-daily-recap</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-daily-2026-06-21-daily-recap</guid>
-      <description>Daily recap</description>
       <pubDate>Sun, 21 Jun 2026 06:00:06 GMT</pubDate>
     </item>
   </channel>
