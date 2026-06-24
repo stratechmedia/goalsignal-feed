@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Portugal 5-0 Uzbekistan - World Cup 2026 Group K Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-portugal-vs-uzbekistan-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-portugal-vs-uzbekistan-wc2026</guid>
+      <description>How Portugal vs Uzbekistan unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Wed, 24 Jun 2026 11:40:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ValueHunter: Paraguay vs Australia — Home Win @ 2.9</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-paraguay-vs-australia-2026-06-26</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-paraguay-vs-australia-2026-06-26</guid>
+      <description>ValueHunter: Paraguay vs Australia — Home Win @ 2.9</description>
+      <pubDate>Wed, 24 Jun 2026 11:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Paraguay vs Australia — Home Win @ 2.9</title>
       <link>https://goalsignal.com/uk/news/xgshadow-paraguay-vs-australia-2026-06-26</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-21</guid>
       <description>World Cup 2026 — today’s 5 matches (Sunday 21 June)</description>
       <pubDate>Sun, 21 Jun 2026 05:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Belgium vs Iran — SteadyHand backs Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-conviction-2026-06-20-belgium-vs-iran-steadyhand-backs-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-conviction-2026-06-20-belgium-vs-iran-steadyhand-backs-draw</guid>
-      <description>Belgium vs Iran — SteadyHand backs Draw</description>
-      <pubDate>Sat, 20 Jun 2026 12:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>USA 2-0 Australia - World Cup 2026 Group D Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-usa-vs-australia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-usa-vs-australia-wc2026</guid>
-      <description>How USA vs Australia unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sat, 20 Jun 2026 10:57:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
