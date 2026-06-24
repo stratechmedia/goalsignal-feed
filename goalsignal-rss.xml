@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 6 matches (Wednesday 24 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-24</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-24</guid>
+      <description>World Cup 2026 — today’s 6 matches (Wednesday 24 June)</description>
+      <pubDate>Wed, 24 Jun 2026 05:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Ecuador vs Germany — Home Win @ 3.6</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-ecuador-vs-germany-2026-06-25</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-value-2026-06-20-belgium-vs-iran-value-on-draw</guid>
       <description>Belgium vs Iran — value on Draw</description>
       <pubDate>Sat, 20 Jun 2026 08:00:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Ecuador vs Curacao — Away Win @ 19</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-curacao-2026-06-21</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-curacao-2026-06-21</guid>
-      <description>Early Bird Eddie: Ecuador vs Curacao — Away Win @ 19</description>
-      <pubDate>Sat, 20 Jun 2026 07:15:40 GMT</pubDate>
     </item>
   </channel>
 </rss>
