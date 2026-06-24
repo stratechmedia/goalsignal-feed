@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 21:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 21:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Tunisia vs Netherlands — Draw @ 9.5</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-tunisia-vs-netherlands-2026-06-25</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-tunisia-vs-netherlands-2026-06-25</guid>
+      <description>ValueHunter: Tunisia vs Netherlands — Draw @ 9.5</description>
+      <pubDate>Wed, 24 Jun 2026 21:16:47 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Norway vs France — Home Win @ 5.25</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-norway-vs-france-2026-06-26</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-21-norway-vs-senegal-best-price-on-norway-win</guid>
       <description>Norway vs Senegal — best price on Norway win</description>
       <pubDate>Sun, 21 Jun 2026 06:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Belgium vs Iran — odds moving on Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-movers-2026-06-21-belgium-vs-iran-odds-moving-on-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-movers-2026-06-21-belgium-vs-iran-odds-moving-on-draw</guid>
-      <description>Belgium vs Iran — odds moving on Draw</description>
-      <pubDate>Sun, 21 Jun 2026 06:00:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
