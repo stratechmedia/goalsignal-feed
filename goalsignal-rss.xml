@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 04:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Ecuador vs Germany — Home Win @ 3.6</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-ecuador-vs-germany-2026-06-25</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-ecuador-vs-germany-2026-06-25</guid>
+      <description>Catenaccio Chris: Ecuador vs Germany — Home Win @ 3.6</description>
+      <pubDate>Wed, 24 Jun 2026 04:16:36 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Ecuador vs Germany — Away Win @ 1.9</title>
       <link>https://goalsignal.com/uk/news/valuehunter-ecuador-vs-germany-2026-06-25</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-curacao-2026-06-21</guid>
       <description>Early Bird Eddie: Ecuador vs Curacao — Away Win @ 19</description>
       <pubDate>Sat, 20 Jun 2026 07:15:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tunisia vs Japan — best price on Draw</title>
-      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-06-20-tunisia-vs-japan-best-price-on-draw</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-06-20-tunisia-vs-japan-best-price-on-draw</guid>
-      <description>Tunisia vs Japan — best price on Draw</description>
-      <pubDate>Sat, 20 Jun 2026 06:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
