@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 09:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Japan vs Sweden — Home Win @ 1.9</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-japan-vs-sweden-2026-06-25</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-japan-vs-sweden-2026-06-25</guid>
+      <description>Early Bird Eddie: Japan vs Sweden — Home Win @ 1.9</description>
+      <pubDate>Wed, 24 Jun 2026 09:16:58 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: Ecuador vs Germany — Draw @ 4.2</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-germany-2026-06-25</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-brazil-vs-haiti-wc2026</guid>
       <description>How Brazil vs Haiti unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sat, 20 Jun 2026 10:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scotland 0-1 Morocco - World Cup 2026 Group C Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-scotland-vs-morocco-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-scotland-vs-morocco-wc2026</guid>
-      <description>How Scotland vs Morocco unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sat, 20 Jun 2026 10:52:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
