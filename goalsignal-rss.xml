@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 19:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Croatia vs Ghana — Home Win @ 1.75</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-croatia-vs-ghana-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-croatia-vs-ghana-2026-06-27</guid>
+      <description>Catenaccio Chris: Croatia vs Ghana — Home Win @ 1.75</description>
+      <pubDate>Thu, 25 Jun 2026 19:18:19 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Panama vs England — Home Win @ 13</title>
       <link>https://goalsignal.com/uk/news/valuehunter-panama-vs-england-2026-06-27</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-belgium-vs-iran-wc2026</guid>
       <description>How Belgium vs Iran unfolded - full match report from World Cup 2026.</description>
       <pubDate>Mon, 22 Jun 2026 10:32:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s 3 matches (Monday 22 June)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-22</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-22</guid>
-      <description>World Cup 2026 — today’s 3 matches (Monday 22 June)</description>
-      <pubDate>Mon, 22 Jun 2026 05:00:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
