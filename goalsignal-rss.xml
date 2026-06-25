@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 18:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 18:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Panama vs England — Home Win @ 13</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-panama-vs-england-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-panama-vs-england-2026-06-27</guid>
+      <description>ValueHunter: Panama vs England — Home Win @ 13</description>
+      <pubDate>Thu, 25 Jun 2026 18:17:36 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: New Zealand vs Belgium — Home Win @ 15</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-belgium-2026-06-27</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-22</guid>
       <description>World Cup 2026 — today’s 3 matches (Monday 22 June)</description>
       <pubDate>Mon, 22 Jun 2026 05:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Panama vs Croatia — Home Win @ 6.5</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-panama-vs-croatia-2026-06-23</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-panama-vs-croatia-2026-06-23</guid>
-      <description>xGShadow: Panama vs Croatia — Home Win @ 6.5</description>
-      <pubDate>Mon, 22 Jun 2026 04:15:50 GMT</pubDate>
     </item>
   </channel>
 </rss>
