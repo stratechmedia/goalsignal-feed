@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 20:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 20:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: Colombia vs Portugal — Home Win @ 4.333</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-colombia-vs-portugal-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-colombia-vs-portugal-2026-06-27</guid>
+      <description>xGShadow: Colombia vs Portugal — Home Win @ 4.333</description>
+      <pubDate>Thu, 25 Jun 2026 20:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: DR Congo vs Uzbekistan — Home Win @ 1.727</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-drcongo-vs-uzbekistan-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-drcongo-vs-uzbekistan-2026-06-27</guid>
+      <description>xGShadow: DR Congo vs Uzbekistan — Home Win @ 1.727</description>
+      <pubDate>Thu, 25 Jun 2026 20:17:42 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Croatia vs Ghana — Home Win @ 1.75</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-croatia-vs-ghana-2026-06-27</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-new-zealand-vs-egypt-wc2026</guid>
       <description>How New Zealand vs Egypt unfolded - full match report from World Cup 2026.</description>
       <pubDate>Mon, 22 Jun 2026 10:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uruguay 2-2 Cape Verde - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-uruguay-vs-cape-verde-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-uruguay-vs-cape-verde-wc2026</guid>
-      <description>How Uruguay vs Cape Verde unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Mon, 22 Jun 2026 10:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Belgium 0-0 Iran - World Cup 2026 Group G Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-belgium-vs-iran-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-belgium-vs-iran-wc2026</guid>
-      <description>How Belgium vs Iran unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Mon, 22 Jun 2026 10:32:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
