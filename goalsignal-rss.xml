@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 09:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 09:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Algeria vs Austria — Home Win @ 4</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-algeria-vs-austria-2026-06-28</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-algeria-vs-austria-2026-06-28</guid>
+      <description>Catenaccio Chris: Algeria vs Austria — Home Win @ 4</description>
+      <pubDate>Fri, 26 Jun 2026 09:18:14 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Algeria vs Austria — Home Win @ 4</title>
       <link>https://goalsignal.com/uk/news/valuehunter-algeria-vs-austria-2026-06-28</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-czechia-vs-mexico-2026-06-25</guid>
       <description>Catenaccio Chris: Czechia vs Mexico — Home Win @ 3.5</description>
       <pubDate>Tue, 23 Jun 2026 19:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Scotland vs Brazil — Home Win @ 8</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-scotland-vs-brazil-2026-06-24</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-scotland-vs-brazil-2026-06-24</guid>
-      <description>Catenaccio Chris: Scotland vs Brazil — Home Win @ 8</description>
-      <pubDate>Tue, 23 Jun 2026 16:16:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
