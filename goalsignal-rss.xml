@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: New Zealand vs Belgium — Home Win @ 17</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-newzealand-vs-belgium-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-newzealand-vs-belgium-2026-06-27</guid>
+      <description>Early Bird Eddie: New Zealand vs Belgium — Home Win @ 17</description>
+      <pubDate>Fri, 26 Jun 2026 06:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Early Bird Eddie: Cabo Verde vs Saudi Arabia — Away Win @ 2.625</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-caboverde-vs-saudiarabia-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-caboverde-vs-saudiarabia-2026-06-27</guid>
+      <description>Early Bird Eddie: Cabo Verde vs Saudi Arabia — Away Win @ 2.625</description>
+      <pubDate>Fri, 26 Jun 2026 06:17:10 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Algeria vs Austria — Home Win @ 4</title>
       <link>https://goalsignal.com/uk/news/xgshadow-algeria-vs-austria-2026-06-28</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-jordan-vs-algeria-wc2026</guid>
       <description>How Jordan vs Algeria unfolded - full match report from World Cup 2026.</description>
       <pubDate>Tue, 23 Jun 2026 09:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>France 3-0 Iraq - World Cup 2026 Group I Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-france-vs-iraq-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-france-vs-iraq-wc2026</guid>
-      <description>How France vs Iraq unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Tue, 23 Jun 2026 09:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argentina 2-0 Austria - World Cup 2026 Group J Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-argentina-vs-austria-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-argentina-vs-austria-wc2026</guid>
-      <description>How Argentina vs Austria unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Tue, 23 Jun 2026 08:57:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
