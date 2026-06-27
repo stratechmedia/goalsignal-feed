@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Brazil vs Japan — Home Win @ 1.7</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-brazil-vs-japan-2026-06-29</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-brazil-vs-japan-2026-06-29</guid>
+      <description>ValueHunter: Brazil vs Japan — Home Win @ 1.7</description>
+      <pubDate>Sat, 27 Jun 2026 06:17:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: Brazil vs Japan — Home Win @ 1.7</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-brazil-vs-japan-2026-06-29</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-brazil-vs-japan-2026-06-29</guid>
+      <description>xGShadow: Brazil vs Japan — Home Win @ 1.7</description>
+      <pubDate>Sat, 27 Jun 2026 06:17:22 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 6 matches (Saturday 27 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-27</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-japan-vs-sweden-2026-06-25</guid>
       <description>Early Bird Eddie: Japan vs Sweden — Home Win @ 1.9</description>
       <pubDate>Wed, 24 Jun 2026 09:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Ecuador vs Germany — Draw @ 4.2</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-germany-2026-06-25</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-ecuador-vs-germany-2026-06-25</guid>
-      <description>Early Bird Eddie: Ecuador vs Germany — Draw @ 4.2</description>
-      <pubDate>Wed, 24 Jun 2026 07:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: South Africa vs South Korea — Draw @ 3.9</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-southafrica-vs-southkorea-2026-06-25</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-southafrica-vs-southkorea-2026-06-25</guid>
-      <description>Early Bird Eddie: South Africa vs South Korea — Draw @ 3.9</description>
-      <pubDate>Wed, 24 Jun 2026 07:16:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
