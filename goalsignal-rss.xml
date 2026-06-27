@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 6 matches (Saturday 27 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-27</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-27</guid>
+      <description>World Cup 2026 — today’s 6 matches (Saturday 27 June)</description>
+      <pubDate>Sat, 27 Jun 2026 05:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>Paraguay 0-0 Australia - World Cup 2026 Group D Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-paraguay-vs-australia-wc2026</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-southafrica-vs-southkorea-2026-06-25</guid>
       <description>Early Bird Eddie: South Africa vs South Korea — Draw @ 3.9</description>
       <pubDate>Wed, 24 Jun 2026 07:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Czechia vs Mexico — Draw @ 3.9</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-czechia-vs-mexico-2026-06-25</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-czechia-vs-mexico-2026-06-25</guid>
-      <description>Early Bird Eddie: Czechia vs Mexico — Draw @ 3.9</description>
-      <pubDate>Wed, 24 Jun 2026 06:16:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
