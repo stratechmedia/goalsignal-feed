@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 07:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 07:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Ivory Coast vs Norway — Home Win @ 3.5</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-norway-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-norway-2026-06-30</guid>
+      <description>Catenaccio Chris: Ivory Coast vs Norway — Home Win @ 3.5</description>
+      <pubDate>Sun, 28 Jun 2026 07:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: Germany vs Paraguay — Away Win @ 8.5</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-paraguay-2026-06-29</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-25</guid>
       <description>World Cup 2026 — today’s 4 matches (Thursday 25 June)</description>
       <pubDate>Thu, 25 Jun 2026 05:00:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: Tunisia vs Netherlands — Draw @ 9.5</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-tunisia-vs-netherlands-2026-06-25</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-tunisia-vs-netherlands-2026-06-25</guid>
-      <description>ValueHunter: Tunisia vs Netherlands — Draw @ 9.5</description>
-      <pubDate>Wed, 24 Jun 2026 21:16:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
