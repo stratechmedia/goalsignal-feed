@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 04:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Netherlands vs Morocco — Away Win @ 3.8</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-netherlands-vs-morocco-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-netherlands-vs-morocco-2026-06-30</guid>
+      <description>ValueHunter: Netherlands vs Morocco — Away Win @ 3.8</description>
+      <pubDate>Sun, 28 Jun 2026 04:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: Netherlands vs Morocco — Away Win @ 3.8</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-netherlands-vs-morocco-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-netherlands-vs-morocco-2026-06-30</guid>
+      <description>xGShadow: Netherlands vs Morocco — Away Win @ 3.8</description>
+      <pubDate>Sun, 28 Jun 2026 04:16:56 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: Brazil vs Japan — Home Win @ 1.7</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-brazil-vs-japan-2026-06-29</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-portugal-vs-uzbekistan-wc2026</guid>
       <description>How Portugal vs Uzbekistan unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 24 Jun 2026 11:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: Paraguay vs Australia — Home Win @ 2.9</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-paraguay-vs-australia-2026-06-26</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-paraguay-vs-australia-2026-06-26</guid>
-      <description>ValueHunter: Paraguay vs Australia — Home Win @ 2.9</description>
-      <pubDate>Wed, 24 Jun 2026 11:17:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Paraguay vs Australia — Home Win @ 2.9</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-paraguay-vs-australia-2026-06-26</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-paraguay-vs-australia-2026-06-26</guid>
-      <description>xGShadow: Paraguay vs Australia — Home Win @ 2.9</description>
-      <pubDate>Wed, 24 Jun 2026 10:17:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
