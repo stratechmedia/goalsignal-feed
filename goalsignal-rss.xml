@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 05:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: Ivory Coast vs Norway — Home Win @ 3.5</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-ivorycoast-vs-norway-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-ivorycoast-vs-norway-2026-06-30</guid>
+      <description>xGShadow: Ivory Coast vs Norway — Home Win @ 3.5</description>
+      <pubDate>Sun, 28 Jun 2026 05:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catenaccio Chris: Netherlands vs Morocco — Home Win @ 2.1</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-netherlands-vs-morocco-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-netherlands-vs-morocco-2026-06-30</guid>
+      <description>Catenaccio Chris: Netherlands vs Morocco — Home Win @ 2.1</description>
+      <pubDate>Sun, 28 Jun 2026 05:17:00 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 5 matches (Sunday 28 June)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-28</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-norway-vs-france-2026-06-26</guid>
       <description>ValueHunter: Norway vs France — Home Win @ 5.25</description>
       <pubDate>Wed, 24 Jun 2026 14:17:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Colombia 1-0 DR Congo - World Cup 2026 Group K Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-colombia-vs-dr-congo-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-colombia-vs-dr-congo-wc2026</guid>
-      <description>How Colombia vs DR Congo unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 24 Jun 2026 11:46:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Panama 0-1 Croatia - World Cup 2026 Group L Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-panama-vs-croatia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-panama-vs-croatia-wc2026</guid>
-      <description>How Panama vs Croatia unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 24 Jun 2026 11:44:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
