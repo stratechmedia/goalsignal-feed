@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Early Bird Eddie: Germany vs Paraguay — Away Win @ 8.5</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-paraguay-2026-06-29</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-paraguay-2026-06-29</guid>
+      <description>Early Bird Eddie: Germany vs Paraguay — Away Win @ 8.5</description>
+      <pubDate>Sun, 28 Jun 2026 06:17:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Early Bird Eddie: Brazil vs Japan — Away Win @ 5</title>
+      <link>https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-japan-2026-06-29</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-japan-2026-06-29</guid>
+      <description>Early Bird Eddie: Brazil vs Japan — Away Win @ 5</description>
+      <pubDate>Sun, 28 Jun 2026 06:16:55 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Ivory Coast vs Norway — Home Win @ 3.5</title>
       <link>https://goalsignal.com/uk/news/xgshadow-ivorycoast-vs-norway-2026-06-30</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-tunisia-vs-netherlands-2026-06-25</guid>
       <description>ValueHunter: Tunisia vs Netherlands — Draw @ 9.5</description>
       <pubDate>Wed, 24 Jun 2026 21:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Norway vs France — Home Win @ 5.25</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-norway-vs-france-2026-06-26</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-norway-vs-france-2026-06-26</guid>
-      <description>Catenaccio Chris: Norway vs France — Home Win @ 5.25</description>
-      <pubDate>Wed, 24 Jun 2026 15:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: Norway vs France — Home Win @ 5.25</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-norway-vs-france-2026-06-26</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-norway-vs-france-2026-06-26</guid>
-      <description>ValueHunter: Norway vs France — Home Win @ 5.25</description>
-      <pubDate>Wed, 24 Jun 2026 14:17:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
