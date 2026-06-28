@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 5 matches (Sunday 28 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-28</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-28</guid>
+      <description>World Cup 2026 — today’s 5 matches (Sunday 28 June)</description>
+      <pubDate>Sun, 28 Jun 2026 05:00:02 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Netherlands vs Morocco — Away Win @ 3.8</title>
       <link>https://goalsignal.com/uk/news/valuehunter-netherlands-vs-morocco-2026-06-30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-panama-vs-croatia-wc2026</guid>
       <description>How Panama vs Croatia unfolded - full match report from World Cup 2026.</description>
       <pubDate>Wed, 24 Jun 2026 11:44:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portugal 5-0 Uzbekistan - World Cup 2026 Group K Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-portugal-vs-uzbekistan-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-portugal-vs-uzbekistan-wc2026</guid>
-      <description>How Portugal vs Uzbekistan unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Wed, 24 Jun 2026 11:40:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
