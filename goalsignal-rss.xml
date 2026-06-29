@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 29 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 2 matches (Monday 29 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-29</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-29</guid>
+      <description>World Cup 2026 — today’s 2 matches (Monday 29 June)</description>
+      <pubDate>Mon, 29 Jun 2026 05:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Algeria 3-3 Austria - World Cup 2026 Group J Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-algeria-vs-austria-wc2026</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-turkiye-vs-paraguay-wc2026</guid>
       <description>How Turkiye vs Paraguay unfolded - full match report from World Cup 2026.</description>
       <pubDate>Thu, 25 Jun 2026 09:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uruguay 2-2 Cabo Verde - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-uruguay-vs-cabo-verde-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-uruguay-vs-cabo-verde-wc2026</guid>
-      <description>How Uruguay vs Cabo Verde unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Thu, 25 Jun 2026 09:48:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
