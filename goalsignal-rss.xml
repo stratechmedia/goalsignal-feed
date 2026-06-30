@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 15:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Mexico vs Ecuador — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-mexico-vs-ecuador-2026-07-01</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-mexico-vs-ecuador-2026-07-01</guid>
+      <description>Catenaccio Chris: Mexico vs Ecuador — Home Win @ 2.2</description>
+      <pubDate>Tue, 30 Jun 2026 15:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>ValueHunter: Mexico vs Ecuador — Home Win @ 2.2</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-mexico-vs-ecuador-2026-07-01</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-mexico-vs-ecuador-2026-07-01</guid>
+      <description>ValueHunter: Mexico vs Ecuador — Home Win @ 2.2</description>
+      <pubDate>Tue, 30 Jun 2026 15:16:14 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: France vs Sweden — Away Win @ 10</title>
       <link>https://goalsignal.com/uk/news/valuehunter-france-vs-sweden-2026-06-30</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-drcongo-vs-uzbekistan-2026-06-27</guid>
       <description>Catenaccio Chris: DR Congo vs Uzbekistan — Home Win @ 1.727</description>
       <pubDate>Thu, 25 Jun 2026 21:17:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Colombia vs Portugal — Home Win @ 4.333</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-colombia-vs-portugal-2026-06-27</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-colombia-vs-portugal-2026-06-27</guid>
-      <description>xGShadow: Colombia vs Portugal — Home Win @ 4.333</description>
-      <pubDate>Thu, 25 Jun 2026 20:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: DR Congo vs Uzbekistan — Home Win @ 1.727</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-drcongo-vs-uzbekistan-2026-06-27</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-drcongo-vs-uzbekistan-2026-06-27</guid>
-      <description>xGShadow: DR Congo vs Uzbekistan — Home Win @ 1.727</description>
-      <pubDate>Thu, 25 Jun 2026 20:17:42 GMT</pubDate>
     </item>
   </channel>
 </rss>
