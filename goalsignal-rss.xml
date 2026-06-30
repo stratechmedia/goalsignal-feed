@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 04:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 05:11:00 GMT</lastBuildDate>
+    <item>
+      <title>World Cup 2026 — today’s 3 matches (Tuesday 30 June)</title>
+      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-30</guid>
+      <description>World Cup 2026 — today’s 3 matches (Tuesday 30 June)</description>
+      <pubDate>Tue, 30 Jun 2026 05:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>South Africa 0-1 Canada - World Cup 2026 Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-south-africa-vs-canada-wc2026</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-newzealand-vs-belgium-2026-06-27</guid>
       <description>Catenaccio Chris: New Zealand vs Belgium — Home Win @ 15</description>
       <pubDate>Thu, 25 Jun 2026 11:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Norway 3-2 Senegal - World Cup 2026 Group I Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-norway-vs-senegal-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-norway-vs-senegal-wc2026</guid>
-      <description>How Norway vs Senegal unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Thu, 25 Jun 2026 09:55:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
