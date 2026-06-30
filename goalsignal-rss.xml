@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 12:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 12:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: France vs Sweden — Away Win @ 10</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-france-vs-sweden-2026-06-30</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-france-vs-sweden-2026-06-30</guid>
+      <description>ValueHunter: France vs Sweden — Away Win @ 10</description>
+      <pubDate>Tue, 30 Jun 2026 12:16:09 GMT</pubDate>
+    </item>
     <item>
       <title>Early Bird Eddie: Ivory Coast vs Norway — Away Win @ 2.1</title>
       <link>https://goalsignal.com/uk/news/earlybirdeddie-ivorycoast-vs-norway-2026-06-30</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-drcongo-vs-uzbekistan-2026-06-27</guid>
       <description>xGShadow: DR Congo vs Uzbekistan — Home Win @ 1.727</description>
       <pubDate>Thu, 25 Jun 2026 20:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Croatia vs Ghana — Home Win @ 1.75</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-croatia-vs-ghana-2026-06-27</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-croatia-vs-ghana-2026-06-27</guid>
-      <description>Catenaccio Chris: Croatia vs Ghana — Home Win @ 1.75</description>
-      <pubDate>Thu, 25 Jun 2026 19:18:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
