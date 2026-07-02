@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 13:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 13:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Spain vs Austria — Away Win @ 9.5</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-spain-vs-austria-2026-07-02</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-spain-vs-austria-2026-07-02</guid>
+      <description>ValueHunter: Spain vs Austria — Away Win @ 9.5</description>
+      <pubDate>Thu, 02 Jul 2026 13:16:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: Spain vs Austria — Away Win @ 9.5</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-spain-vs-austria-2026-07-02</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-spain-vs-austria-2026-07-02</guid>
+      <description>xGShadow: Spain vs Austria — Away Win @ 9.5</description>
+      <pubDate>Thu, 02 Jul 2026 13:16:02 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: USA vs Bosnia and Herzegovina — Home Win @ 1.333</title>
       <link>https://goalsignal.com/uk/news/xgshadow-usa-vs-bosniaandherzegovina-2026-07-02</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-uruguay-vs-spain-2026-06-27</guid>
       <description>Early Bird Eddie: Uruguay vs Spain — Away Win @ 1.615</description>
       <pubDate>Fri, 26 Jun 2026 10:17:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Algeria vs Austria — Home Win @ 4</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-algeria-vs-austria-2026-06-28</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-algeria-vs-austria-2026-06-28</guid>
-      <description>Catenaccio Chris: Algeria vs Austria — Home Win @ 4</description>
-      <pubDate>Fri, 26 Jun 2026 09:18:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>ValueHunter: Algeria vs Austria — Home Win @ 4</title>
-      <link>https://goalsignal.com/uk/news/valuehunter-algeria-vs-austria-2026-06-28</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-algeria-vs-austria-2026-06-28</guid>
-      <description>ValueHunter: Algeria vs Austria — Home Win @ 4</description>
-      <pubDate>Fri, 26 Jun 2026 07:18:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
