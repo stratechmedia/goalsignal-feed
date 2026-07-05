@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 19:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 19:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Switzerland vs Colombia — Home Win @ 3.5</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-switzerland-vs-colombia-2026-07-07</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-switzerland-vs-colombia-2026-07-07</guid>
+      <description>Catenaccio Chris: Switzerland vs Colombia — Home Win @ 3.5</description>
+      <pubDate>Sun, 05 Jul 2026 19:16:39 GMT</pubDate>
+    </item>
     <item>
       <title>Catenaccio Chris: USA vs Belgium — Home Win @ 2.625</title>
       <link>https://goalsignal.com/uk/news/catenacciochris-usa-vs-belgium-2026-07-07</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-jordan-vs-argentina-wc2026</guid>
       <description>How Jordan vs Argentina unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sun, 28 Jun 2026 16:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DR Congo 3-1 Uzbekistan - World Cup 2026 Group K Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-dr-congo-vs-uzbekistan-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-dr-congo-vs-uzbekistan-wc2026</guid>
-      <description>How DR Congo vs Uzbekistan unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:54:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
