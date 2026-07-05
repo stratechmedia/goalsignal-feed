@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 05:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 05:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: Colombia vs Ghana — Away Win @ 8.5</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-colombia-vs-ghana-2026-07-04</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-colombia-vs-ghana-2026-07-04</guid>
+      <description>xGShadow: Colombia vs Ghana — Away Win @ 8.5</description>
+      <pubDate>Sun, 05 Jul 2026 05:15:16 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s match (Sunday 5 July)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-07-05</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-turkiye-vs-usa-wc2026</guid>
       <description>How Turkiye vs USA unfolded - full match report from World Cup 2026.</description>
       <pubDate>Fri, 26 Jun 2026 11:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tunisia 1-3 Netherlands - World Cup 2026 Group F Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-tunisia-vs-netherlands-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-tunisia-vs-netherlands-wc2026</guid>
-      <description>How Tunisia vs Netherlands unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Fri, 26 Jun 2026 11:18:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
