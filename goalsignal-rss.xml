@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 13:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:11:00 GMT</lastBuildDate>
+    <item>
+      <title>France 3-0 Sweden - World Cup 2026 Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-france-vs-sweden-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-france-vs-sweden-wc2026</guid>
+      <description>How France vs Sweden unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sun, 05 Jul 2026 13:57:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ivory Coast 1-2 Norway - World Cup 2026 Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-ivory-coast-vs-norway-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-ivory-coast-vs-norway-wc2026</guid>
+      <description>How Ivory Coast vs Norway unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sun, 05 Jul 2026 13:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portugal 1-1 DR Congo - World Cup 2026 Group K Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-portugal-vs-dr-congo-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-portugal-vs-dr-congo-wc2026</guid>
+      <description>How Portugal vs DR Congo unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sun, 05 Jul 2026 13:45:00 GMT</pubDate>
+    </item>
     <item>
       <title>Netherlands 3-4 Morocco - World Cup 2026 Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-netherlands-vs-morocco-wc2026</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-norway-2026-06-30</guid>
       <description>Catenaccio Chris: Ivory Coast vs Norway — Home Win @ 3.5</description>
       <pubDate>Sun, 28 Jun 2026 07:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Germany vs Paraguay — Away Win @ 8.5</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-paraguay-2026-06-29</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-germany-vs-paraguay-2026-06-29</guid>
-      <description>Early Bird Eddie: Germany vs Paraguay — Away Win @ 8.5</description>
-      <pubDate>Sun, 28 Jun 2026 06:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Brazil vs Japan — Away Win @ 5</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-japan-2026-06-29</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-brazil-vs-japan-2026-06-29</guid>
-      <description>Early Bird Eddie: Brazil vs Japan — Away Win @ 5</description>
-      <pubDate>Sun, 28 Jun 2026 06:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Ivory Coast vs Norway — Home Win @ 3.5</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-ivorycoast-vs-norway-2026-06-30</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-ivorycoast-vs-norway-2026-06-30</guid>
-      <description>xGShadow: Ivory Coast vs Norway — Home Win @ 3.5</description>
-      <pubDate>Sun, 28 Jun 2026 05:17:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
