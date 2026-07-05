@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: USA vs Belgium — Home Win @ 2.625</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-usa-vs-belgium-2026-07-07</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-usa-vs-belgium-2026-07-07</guid>
+      <description>Catenaccio Chris: USA vs Belgium — Home Win @ 2.625</description>
+      <pubDate>Sun, 05 Jul 2026 17:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: USA vs Belgium — Away Win @ 2.625</title>
       <link>https://goalsignal.com/uk/news/xgshadow-usa-vs-belgium-2026-07-07</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-dr-congo-vs-uzbekistan-wc2026</guid>
       <description>How DR Congo vs Uzbekistan unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sun, 28 Jun 2026 16:54:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Colombia 0-0 Portugal - World Cup 2026 Group K Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-colombia-vs-portugal-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-colombia-vs-portugal-wc2026</guid>
-      <description>How Colombia vs Portugal unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:51:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
