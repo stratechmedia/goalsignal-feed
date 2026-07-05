@@ -6,7 +6,21 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 16:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:41:00 GMT</lastBuildDate>
+    <item>
+      <title>xGShadow: USA vs Belgium — Away Win @ 2.625</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-usa-vs-belgium-2026-07-07</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-usa-vs-belgium-2026-07-07</guid>
+      <description>xGShadow: USA vs Belgium — Away Win @ 2.625</description>
+      <pubDate>Sun, 05 Jul 2026 16:16:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Catenaccio Chris: Portugal vs Spain — Home Win @ 4.2</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-portugal-vs-spain-2026-07-06</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-portugal-vs-spain-2026-07-06</guid>
+      <description>Catenaccio Chris: Portugal vs Spain — Home Win @ 4.2</description>
+      <pubDate>Sun, 05 Jul 2026 16:16:12 GMT</pubDate>
+    </item>
     <item>
       <title>ValueHunter: Portugal vs Spain — Home Win @ 4.2</title>
       <link>https://goalsignal.com/uk/news/valuehunter-portugal-vs-spain-2026-07-06</link>
@@ -342,20 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-colombia-vs-portugal-wc2026</guid>
       <description>How Colombia vs Portugal unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sun, 28 Jun 2026 16:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cape Verde 0-0 Saudi Arabia - World Cup 2026 Group H Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-cape-verde-vs-saudi-arabia-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-cape-verde-vs-saudi-arabia-wc2026</guid>
-      <description>How Cape Verde vs Saudi Arabia unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Croatia 2-1 Ghana - World Cup 2026 Group L Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-croatia-vs-ghana-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-croatia-vs-ghana-wc2026</guid>
-      <description>How Croatia vs Ghana unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:49:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
