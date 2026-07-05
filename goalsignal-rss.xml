@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 11:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 11:41:00 GMT</lastBuildDate>
+    <item>
+      <title>ValueHunter: Brazil vs Norway — Home Win @ 1.85</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-brazil-vs-norway-2026-07-05</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-brazil-vs-norway-2026-07-05</guid>
+      <description>ValueHunter: Brazil vs Norway — Home Win @ 1.85</description>
+      <pubDate>Sun, 05 Jul 2026 11:15:59 GMT</pubDate>
+    </item>
     <item>
       <title>Drift Detector: Paraguay vs France — Home Win @ 15</title>
       <link>https://goalsignal.com/uk/news/driftdetector-paraguay-vs-france-2026-07-04</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-brazil-vs-japan-2026-06-29</guid>
       <description>ValueHunter: Brazil vs Japan — Home Win @ 1.7</description>
       <pubDate>Sat, 27 Jun 2026 06:17:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>xGShadow: Brazil vs Japan — Home Win @ 1.7</title>
-      <link>https://goalsignal.com/uk/news/xgshadow-brazil-vs-japan-2026-06-29</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-brazil-vs-japan-2026-06-29</guid>
-      <description>xGShadow: Brazil vs Japan — Home Win @ 1.7</description>
-      <pubDate>Sat, 27 Jun 2026 06:17:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
