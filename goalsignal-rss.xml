@@ -6,7 +6,28 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 14:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 14:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Czechia 1-1 South Africa - World Cup 2026 Group A Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-czechia-vs-south-africa-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-czechia-vs-south-africa-wc2026</guid>
+      <description>How Czechia vs South Africa unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Sun, 05 Jul 2026 14:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>ValueHunter: Mexico vs England — Home Win @ 3.1</title>
+      <link>https://goalsignal.com/uk/news/valuehunter-mexico-vs-england-2026-07-06</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-mexico-vs-england-2026-07-06</guid>
+      <description>ValueHunter: Mexico vs England — Home Win @ 3.1</description>
+      <pubDate>Sun, 05 Jul 2026 14:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>xGShadow: Mexico vs England — Away Win @ 2.4</title>
+      <link>https://goalsignal.com/uk/news/xgshadow-mexico-vs-england-2026-07-06</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-mexico-vs-england-2026-07-06</guid>
+      <description>xGShadow: Mexico vs England — Away Win @ 2.4</description>
+      <pubDate>Sun, 05 Jul 2026 14:16:01 GMT</pubDate>
+    </item>
     <item>
       <title>France 3-0 Sweden - World Cup 2026 Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-france-vs-sweden-wc2026</link>
@@ -335,27 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-cabo-verde-vs-saudi-arabia-wc2026</guid>
       <description>How Cabo Verde vs Saudi Arabia unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sun, 28 Jun 2026 16:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Senegal 5-0 Iraq - World Cup 2026 Group I Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-senegal-vs-iraq-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-senegal-vs-iraq-wc2026</guid>
-      <description>How Senegal vs Iraq unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Norway 1-4 France - World Cup 2026 Group I Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-norway-vs-france-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-norway-vs-france-wc2026</guid>
-      <description>How Norway vs France unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catenaccio Chris: Ivory Coast vs Norway — Home Win @ 3.5</title>
-      <link>https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-norway-2026-06-30</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-ivorycoast-vs-norway-2026-06-30</guid>
-      <description>Catenaccio Chris: Ivory Coast vs Norway — Home Win @ 3.5</description>
-      <pubDate>Sun, 28 Jun 2026 07:17:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
