@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 09:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 10:11:00 GMT</lastBuildDate>
+    <item>
+      <title>USA 2-0 Bosnia and Herzegovina - World Cup 2026 Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-usa-vs-bosnia-and-herzegovina-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-usa-vs-bosnia-and-herzegovina-wc2026</guid>
+      <description>How USA vs Bosnia and Herzegovina unfolded - full match report from World Cup 2026.</description>
+      <pubDate>Mon, 06 Jul 2026 10:07:00 GMT</pubDate>
+    </item>
     <item>
       <title>Drift Detector: USA vs Belgium — Home Win @ 2.6</title>
       <link>https://goalsignal.com/uk/news/driftdetector-usa-vs-belgium-2026-07-07</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-south-africa-vs-canada-wc2026</guid>
       <description>How South Africa vs Canada unfolded - full match report from World Cup 2026.</description>
       <pubDate>Mon, 29 Jun 2026 12:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s 2 matches (Monday 29 June)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-06-29</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-29</guid>
-      <description>World Cup 2026 — today’s 2 matches (Monday 29 June)</description>
-      <pubDate>Mon, 29 Jun 2026 05:00:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
