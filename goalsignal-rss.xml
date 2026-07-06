@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Jul 2026 06:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 06:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Drift Detector: USA vs Belgium — Home Win @ 2.6</title>
+      <link>https://goalsignal.com/uk/news/driftdetector-usa-vs-belgium-2026-07-07</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/driftdetector-usa-vs-belgium-2026-07-07</guid>
+      <description>Drift Detector: USA vs Belgium — Home Win @ 2.6</description>
+      <pubDate>Mon, 06 Jul 2026 06:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s 2 matches (Monday 6 July)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-07-06</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-06-29</guid>
       <description>World Cup 2026 — today’s 2 matches (Monday 29 June)</description>
       <pubDate>Mon, 29 Jun 2026 05:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Algeria 3-3 Austria - World Cup 2026 Group J Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-algeria-vs-austria-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-algeria-vs-austria-wc2026</guid>
-      <description>How Algeria vs Austria unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 28 Jun 2026 16:59:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
