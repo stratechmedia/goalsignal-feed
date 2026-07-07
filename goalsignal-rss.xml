@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 13:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 14:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Switzerland vs Colombia — best price on Switzerland win</title>
+      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-07-07-switzerland-vs-colombia-best-price-on-switzerla</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-07-07-switzerland-vs-colombia-best-price-on-switzerla</guid>
+      <description>Switzerland vs Colombia — best price on Switzerland win</description>
+      <pubDate>Tue, 07 Jul 2026 14:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Switzerland vs Colombia — value on Switzerland win</title>
       <link>https://goalsignal.com/uk/news/gs-value-2026-07-07-switzerland-vs-colombia-value-on-switzerland-win</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/xgshadow-colombia-vs-ghana-2026-07-04</guid>
       <description>xGShadow: Colombia vs Ghana — Away Win @ 8.5</description>
       <pubDate>Sun, 05 Jul 2026 05:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s match (Sunday 5 July)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-07-05</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-07-05</guid>
-      <description>World Cup 2026 — today’s match (Sunday 5 July)</description>
-      <pubDate>Sun, 05 Jul 2026 05:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
