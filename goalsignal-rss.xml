@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 11:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:11:00 GMT</lastBuildDate>
+    <item>
+      <title>Argentina vs Egypt — 1st Half Freddie backs Argentina win</title>
+      <link>https://goalsignal.com/uk/news/gs-conviction-2026-07-07-argentina-vs-egypt-1st-half-freddie-backs-arg</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-conviction-2026-07-07-argentina-vs-egypt-1st-half-freddie-backs-arg</guid>
+      <description>Argentina vs Egypt — 1st Half Freddie backs Argentina win</description>
+      <pubDate>Tue, 07 Jul 2026 12:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>USA 1-4 Belgium - World Cup 2026 Report</title>
       <link>https://goalsignal.com/uk/news/gs-recap-usa-vs-belgium-wc2026</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-07-04</guid>
       <description>World Cup 2026 — today’s 3 matches (Saturday 4 July)</description>
       <pubDate>Sat, 04 Jul 2026 05:00:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>World Cup 2026 — today’s 4 matches (Friday 3 July)</title>
-      <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-07-03</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/wc2026-matchday-2026-07-03</guid>
-      <description>World Cup 2026 — today’s 4 matches (Friday 3 July)</description>
-      <pubDate>Fri, 03 Jul 2026 05:00:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
