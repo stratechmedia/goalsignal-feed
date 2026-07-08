@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 05:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 05:41:00 GMT</lastBuildDate>
+    <item>
+      <title>Catenaccio Chris: Spain vs Belgium — Home Win @ 1.616</title>
+      <link>https://goalsignal.com/uk/news/catenacciochris-spain-vs-belgium-2026-07-10</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/catenacciochris-spain-vs-belgium-2026-07-10</guid>
+      <description>Catenaccio Chris: Spain vs Belgium — Home Win @ 1.616</description>
+      <pubDate>Wed, 08 Jul 2026 05:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>xGShadow: Spain vs Belgium — Home Win @ 1.616</title>
       <link>https://goalsignal.com/uk/news/xgshadow-spain-vs-belgium-2026-07-10</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/driftdetector-canada-vs-morocco-2026-07-04</guid>
       <description>Drift Detector: Canada vs Morocco — Home Win @ 5</description>
       <pubDate>Sun, 05 Jul 2026 08:15:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Early Bird Eddie: Colombia vs Ghana — Home Win @ 1.42</title>
-      <link>https://goalsignal.com/uk/news/earlybirdeddie-colombia-vs-ghana-2026-07-04</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/earlybirdeddie-colombia-vs-ghana-2026-07-04</guid>
-      <description>Early Bird Eddie: Colombia vs Ghana — Home Win @ 1.42</description>
-      <pubDate>Sun, 05 Jul 2026 06:15:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
