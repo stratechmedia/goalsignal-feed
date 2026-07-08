@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 06:41:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 07:11:00 GMT</lastBuildDate>
+    <item>
+      <title>France vs Morocco — best price on France win</title>
+      <link>https://goalsignal.com/uk/news/gs-bestodds-2026-07-08-france-vs-morocco-best-price-on-france-win</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-bestodds-2026-07-08-france-vs-morocco-best-price-on-france-win</guid>
+      <description>France vs Morocco — best price on France win</description>
+      <pubDate>Wed, 08 Jul 2026 07:00:05 GMT</pubDate>
+    </item>
     <item>
       <title>Daily recap</title>
       <link>https://goalsignal.com/uk/news/gs-daily-2026-07-08-daily-recap</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/valuehunter-brazil-vs-norway-2026-07-05</guid>
       <description>ValueHunter: Brazil vs Norway — Home Win @ 1.85</description>
       <pubDate>Sun, 05 Jul 2026 11:15:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drift Detector: Paraguay vs France — Home Win @ 15</title>
-      <link>https://goalsignal.com/uk/news/driftdetector-paraguay-vs-france-2026-07-04</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/driftdetector-paraguay-vs-france-2026-07-04</guid>
-      <description>Drift Detector: Paraguay vs France — Home Win @ 15</description>
-      <pubDate>Sun, 05 Jul 2026 10:15:56 GMT</pubDate>
     </item>
   </channel>
 </rss>
