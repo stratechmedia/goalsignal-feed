@@ -6,7 +6,14 @@
     <atom:link href="https://goalsignal.com/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Latest published articles from GoalSignal</description>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Jul 2026 09:11:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 09:41:00 GMT</lastBuildDate>
+    <item>
+      <title>France 2-0 Morocco - World Cup 2026 Report</title>
+      <link>https://goalsignal.com/uk/news/gs-recap-france-vs-morocco-wc2026</link>
+      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-france-vs-morocco-wc2026</guid>
+      <description>France 2-0 Morocco: Mbappé and Dembélé crush Atlas Lions in World Cup quarterfinal.</description>
+      <pubDate>Fri, 10 Jul 2026 09:16:00 GMT</pubDate>
+    </item>
     <item>
       <title>World Cup 2026 — today’s match (Friday 10 July)</title>
       <link>https://goalsignal.com/uk/news/wc2026-matchday-2026-07-10</link>
@@ -349,13 +356,6 @@
       <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-netherlands-vs-morocco-wc2026</guid>
       <description>How Netherlands vs Morocco unfolded - full match report from World Cup 2026.</description>
       <pubDate>Sun, 05 Jul 2026 13:39:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Germany 4-5 Paraguay - World Cup 2026 Report</title>
-      <link>https://goalsignal.com/uk/news/gs-recap-germany-vs-paraguay-wc2026</link>
-      <guid isPermaLink="true">https://goalsignal.com/uk/news/gs-recap-germany-vs-paraguay-wc2026</guid>
-      <description>How Germany vs Paraguay unfolded - full match report from World Cup 2026.</description>
-      <pubDate>Sun, 05 Jul 2026 13:36:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
